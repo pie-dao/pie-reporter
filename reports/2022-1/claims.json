@@ -2,7 +2,7 @@
     "chainId": 1,
     "rewardToken": "0x1083D743A1E53805a95249fEf7310D75029f7Cd6",
     "windowIndex": 4,
-    "totalRewardsDistributed": "288865139714478446613022",
+    "totalRewardsDistributed": "408112995588311690917091",
     "recipients": {
         "0x00BA3CA0B6Df1486c912893d9f288311A60ED753": {
             "amount": "381560251125552957560",
@@ -477,7 +477,7 @@
             }
         },
         "0x4E62CF78dA0c0D97D06BA0b3E26cF695bbBc75b5": {
-            "amount": "5299025069742056679",
+            "amount": "60148067946790858879",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 4"
@@ -1141,7 +1141,7 @@
             }
         },
         "0xC07EF9FDa2d42a7757172f6A7CDa2a63599591ED": {
-            "amount": "62737402410522260712",
+            "amount": "712118454494675518202",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 4"
@@ -1429,7 +1429,7 @@
             }
         },
         "0xEeaA36420519d85EfaB3b7120ac5Afa5a5825bFB": {
-            "amount": "11427168828525091622420",
+            "amount": "129707279752695119463212",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 4"
@@ -1517,7 +1517,7 @@
             }
         },
         "0xFeFe8736B8DEbEb1592DaC993c81e002aF8C34e9": {
-            "amount": "133388277372160214961",
+            "amount": "396903132074174618548",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 4"
