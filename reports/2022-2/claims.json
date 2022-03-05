@@ -2,7 +2,7 @@
     "chainId": 1,
     "rewardToken": "0x1083D743A1E53805a95249fEf7310D75029f7Cd6",
     "windowIndex": 5,
-    "totalRewardsDistributed": "514967922483961120935765",
+    "totalRewardsDistributed": "514878297623374660563319",
     "recipients": {
         "0x00BA3CA0B6Df1486c912893d9f288311A60ED753": {
             "amount": "561944245759300345229",
@@ -261,7 +261,7 @@
             }
         },
         "0x2067BEd542762D26E2755Ce7d8776728F3429f48": {
-            "amount": "177590852774900997473",
+            "amount": "87965992188440625027",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 5"

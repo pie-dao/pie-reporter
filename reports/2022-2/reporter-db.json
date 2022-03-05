@@ -424,7 +424,7 @@
         "49": {
             "address": "0x2067BEd542762D26E2755Ce7d8776728F3429f48",
             "vedough_balance": 5000000000000000000000,
-            "slice_amount": 177590852774900997473,
+            "slice_amount": 87965992188440625027,
             "state": "active",
             "inactive_windows": []
         },
