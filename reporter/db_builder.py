@@ -56,7 +56,7 @@ def compute_distribution(conf, accounts):
     (slashed, slashed_amount) = filter_slashed(accounts)
 
     # increase slice units to account for slashed and ridistribution
-    slice_units += Decimal(slashed_amount)
+    slice_units += slashed_amount
 
     # take into account only NOT slashed accounts
     accounts_for_distro = filter(lambda a: a not in slashed, accounts)
