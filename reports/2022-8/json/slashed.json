@@ -5,11 +5,11 @@
     },
     {
         "address": "0x0056D1fd2ca3c0F3A7B6ed6CDd1F1F104B4BF9A9",
-        "slice_amount": 721344166767492500000
+        "slice_amount": 721344166767492511761
     },
     {
         "address": "0x00f4996324943D7e8497ce6a1Cf88969a0B08A24",
-        "slice_amount": 1.29875850905377e+21
+        "slice_amount": 1298758509053770054030
     },
     {
         "address": "0x01298D8c3C581744A7985D91deA5FbCB9f4F58ec",
@@ -29,7 +29,7 @@
     },
     {
         "address": "0x0C6AC3FCEA667fD6C62483cE1DBbce6f6ce0fB1f",
-        "slice_amount": 1862194651861805300
+        "slice_amount": 1862194651861805211
     },
     {
         "address": "0x0ccA4E5FD4f2Ec0beC7B246e1D1865524A49e1b9",
@@ -69,7 +69,7 @@
     },
     {
         "address": "0x1F9b4F7A0605E4574562938CBdBFdFfe8605d4E2",
-        "slice_amount": 103821591207018970000
+        "slice_amount": 103821591207018978283
     },
     {
         "address": "0x215C44804627920a72692b20c6DC80deBa946cF2",
@@ -93,7 +93,7 @@
     },
     {
         "address": "0x2C9139D5eC9206Bd779A71ecdB927C8cD42E9639",
-        "slice_amount": 8499831697828937000
+        "slice_amount": 8499831697828936210
     },
     {
         "address": "0x2E6a4C895E3a466f86cc00d9f8B33A1eeCe3fc5a",
@@ -101,7 +101,7 @@
     },
     {
         "address": "0x2eA8E4c3768FDb6677548F8AF2FfDAA0BaC630BA",
-        "slice_amount": 46799727523624760000
+        "slice_amount": 46799727523624762922
     },
     {
         "address": "0x2EC8db4C68717b9101578a3760cD70D859587b43",
@@ -165,7 +165,7 @@
     },
     {
         "address": "0x4e4842749E799B384601489f1653213d86C31E1B",
-        "slice_amount": 180893074157277450000
+        "slice_amount": 180893074157277451175
     },
     {
         "address": "0x4E62CF78dA0c0D97D06BA0b3E26cF695bbBc75b5",
@@ -213,11 +213,11 @@
     },
     {
         "address": "0x5e01f5ce73fcB34B51592F4138A38c7d51e10362",
-        "slice_amount": 4185810238442455000
+        "slice_amount": 4185810238442455006
     },
     {
         "address": "0x5E03b07aE157EE1CA5BF2F3CBE5BC8dc38F3e965",
-        "slice_amount": 113371339293460170000
+        "slice_amount": 113371339293460166639
     },
     {
         "address": "0x62373a7d753ECea3Eef5d2EdCD8C4bE4E40CE0f9",
@@ -245,7 +245,7 @@
     },
     {
         "address": "0x68FE88060ac8772d9ec7F40deb535c4873260F8A",
-        "slice_amount": 5.411142167404076e+21
+        "slice_amount": 5411142167404075460271
     },
     {
         "address": "0x6a1a3eCd04DF0fF2d7cb25584052CDD173fC609B",
@@ -273,7 +273,7 @@
     },
     {
         "address": "0x6D6D09B2AADDfBd2447E27b9E97da47e83a2f0E4",
-        "slice_amount": 85750981743822240000
+        "slice_amount": 85750981743822234968
     },
     {
         "address": "0x6D8804c4B0c246d076dC27A5D6127Bd2C8BCE219",
@@ -281,7 +281,7 @@
     },
     {
         "address": "0x6D9148E201304Aa9ccA58a759A134A3fB58FE718",
-        "slice_amount": 303744712272715000000
+        "slice_amount": 303744712272714966995
     },
     {
         "address": "0x6E1C5ACbAbaF0B3c73D4412c17C40D2F1D2e183b",
@@ -333,15 +333,15 @@
     },
     {
         "address": "0x7BFEe91193d9Df2Ac0bFe90191D40F23c773C060",
-        "slice_amount": 188396578126595160000
+        "slice_amount": 188396578126595178026
     },
     {
         "address": "0x7DFceB66eE379b66946158c40Bd4cac1C7db50b1",
-        "slice_amount": 22975646602694353000
+        "slice_amount": 22975646602694351404
     },
     {
         "address": "0x7ecF3a3ea7Cfd250dA7fc33d85bb2157706f247C",
-        "slice_amount": 3905964360719103500
+        "slice_amount": 3905964360719103556
     },
     {
         "address": "0x827eA2C64d3f5093F632ab6DaA94EE8d7eEe0686",
@@ -349,7 +349,7 @@
     },
     {
         "address": "0x8550dEb6EdB4e0b7CeB137a06ae5D5F88c45De77",
-        "slice_amount": 14426883335349850000
+        "slice_amount": 14426883335349850233
     },
     {
         "address": "0x86CDf20021c2544D8e3d1843ccc5780344EB575F",
@@ -381,7 +381,7 @@
     },
     {
         "address": "0x97D2767Db42135E1E2a5Fd7dd3e11646EF4d2b28",
-        "slice_amount": 5917081471037523000
+        "slice_amount": 5917081471037523142
     },
     {
         "address": "0x9C1296098183Aa5a16bFb61c2a41FB78e31Af721",
@@ -397,7 +397,7 @@
     },
     {
         "address": "0xa1E91a4CF28f8C098C7bAb3093734Ad38B89f278",
-        "slice_amount": 60969371112118010000
+        "slice_amount": 60969371112118011827
     },
     {
         "address": "0xA5D348E0D34EA0B19B7EDafcb1aAfF0d9AB42336",
@@ -437,7 +437,7 @@
     },
     {
         "address": "0xB05136FAcE3F8c6f9e6CDb076a38Ee6D4910f6d4",
-        "slice_amount": 2.21137218328584e+21
+        "slice_amount": 2211372183285839871180
     },
     {
         "address": "0xb05607F54F95392F7F96d8F5d20649122E11D975",
@@ -473,7 +473,7 @@
     },
     {
         "address": "0xbE8Fe12B9EB1CA2a593e6C070c71c294b6FE9f00",
-        "slice_amount": 7.582714802456168e+21
+        "slice_amount": 7582714802456168293850
     },
     {
         "address": "0xC1B7Ffb3b6a04A31c429b817F82b9C7bEBF3E254",
@@ -493,7 +493,7 @@
     },
     {
         "address": "0xc6E4Ad3ccdfC65687D2d60a454a8bdDc1F4d6c06",
-        "slice_amount": 336633131024978800000
+        "slice_amount": 336633131024978816765
     },
     {
         "address": "0xc86A24B95E34ad68584cD8a3323f87d64F474225",
@@ -517,7 +517,7 @@
     },
     {
         "address": "0xd5CBdcC1a7861CF886621162c20A72E9C4121038",
-        "slice_amount": 1.615603141879866e+21
+        "slice_amount": 1615603141879865947652
     },
     {
         "address": "0xD63E2Af499327DC60bB06948a9c1f72bE633a2B6",
@@ -545,7 +545,7 @@
     },
     {
         "address": "0xDA073663Ca3CF93e9d7E46B6DCD299B9C66B851f",
-        "slice_amount": 55458780990049755000
+        "slice_amount": 55458780990049753660
     },
     {
         "address": "0xDd956ab0f6020c2Be35be89C54Ba8841E290f778",
@@ -569,7 +569,7 @@
     },
     {
         "address": "0xE31eAf2b6797B2C342bD4a75A98c11141Bf59330",
-        "slice_amount": 2389992537447922700
+        "slice_amount": 2389992537447922941
     },
     {
         "address": "0xE3ceB1966728f0f1F614365DBF5dCc84BEe36957",
@@ -625,6 +625,6 @@
     },
     {
         "address": "0xff67A86A01C7c90B0c3f3A26B65C25f432ec1751",
-        "slice_amount": 21472002431418274000
+        "slice_amount": 21472002431418272178
     }
 ]
