@@ -1,0 +1,1880 @@
+{
+    "chainId": 1,
+    "rewardToken": "0x1083D743A1E53805a95249fEf7310D75029f7Cd6",
+    "windowIndex": 15,
+    "totalRewardsDistributed": "271647163389813739641820",
+    "recipients": {
+        "0x002B5dfB3C71E1dC97A2e5A0A7f69F3e7b83F269": {
+            "amount": "767798673396247165",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x00C67d9D6D3D13b42a87424E145826c467CcCd84": {
+            "amount": "1050578084778646904900",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x00d5D64dc14C601909aBDe7522e1BBbB7b582732": {
+            "amount": "161672157788371373579",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x01e6fd0aE73D9194b19f9B376065577927A0D5f5": {
+            "amount": "94278457775690157011",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x0252d89c8781b88858d5A2dbb8b9CF613f84917D": {
+            "amount": "129887359293503509266",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x0331DEbc490c5540ef4773da5B9Df146aa2D58c3": {
+            "amount": "12496298592484725861",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x037dFD569DeFBC08aE28001159b4c49f6d006cfF": {
+            "amount": "63016322335792818937",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x03C65618d9Ca830d9099B66bA6bd52A3B0344f82": {
+            "amount": "329599759639186464323",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x05553bA4d6c81d877543A168E3238C07978Cc083": {
+            "amount": "505185247636145844059",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x0735D535F2009602A8a1c5b8fBd0454c3ca1b2B0": {
+            "amount": "10949327309868010",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x075Fad58CEC5FB6abB30Bd8f298dE5E91e4Cfbdf": {
+            "amount": "5077620266204842908",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x0810C422E4abD05c752618B403d26cf60bB50B5C": {
+            "amount": "1977155614546963123083",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x096CCeE5E0e56913cAE154e59a36a3B4c0A00276": {
+            "amount": "7693617622834162444",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x099b6EDe4689Ea0f6DAc5126BD96bbbC719a9389": {
+            "amount": "15879529926811135476",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x09F213953D92F865b949B3E39b9dcFaE687d4966": {
+            "amount": "1094772465158681063",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x0d7876Fb02C6A64eC468b3B5014759AF1BC2ABeD": {
+            "amount": "824434523295239900",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x111cD92405B1Dfbd19882D361418F49D99d8FED8": {
+            "amount": "202576874364834765661",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x124C5E21A073Fb4694308fBDF72aF362451EAe12": {
+            "amount": "49143106987422267902",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x14B30b46ec4fA1a993806bd5Dda4195C5a82353e": {
+            "amount": "83451341277492674047",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x16765c8Fe6Eb838CB8f64e425b6DcCab38D4F102": {
+            "amount": "4122898499824454652503",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x17196B4d4b38335018FbACc031aD198bc92C5bee": {
+            "amount": "109494513211577939",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1754352eacb753327Fec2d4F48f0fb36B672C5e0": {
+            "amount": "6899317589600363757977",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x18F23C3b96918518235136920F39Cb833B113F00": {
+            "amount": "2919478133336362465",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1959b5EFb8fdD52C688c1D685Ad8F3D82ea27B01": {
+            "amount": "43144196455925240100",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x198ca1beaCF70b82c4e6dE21E8Cb7b6dA6D8477A": {
+            "amount": "1180492800742587478251",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x19a61e7238270CA99F931C08D7BcfF1984F38AE4": {
+            "amount": "430438753686867461862",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x19dd92C9A9c4Eb6f0426846C4F8a071A7b79209A": {
+            "amount": "584208969598856658274",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1c1A631450FF768b6355180538a5C09Ee9774F34": {
+            "amount": "94294806907543053845",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1CA4C34b18ECF1df4bA7E2AE0EC1FC5960C349d9": {
+            "amount": "1032619760696815976507",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1d617863548364263284Ec52d11487CFb806c021": {
+            "amount": "101024336408995040246",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1dE4F046c45Cd4E39cfCDF36b7DF4856B4031955": {
+            "amount": "3090332343067157915145",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1DF7f562F33bdeb744FF93d987590FC47502B028": {
+            "amount": "1810272412243521853",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1Ec289BD5F002B7969887b8E18a1625052a67D0d": {
+            "amount": "459136195451062480325",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x1f540E4D3211D393C31Fa343cFFD080D9B11b29e": {
+            "amount": "3108411572165341823915",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x20414D54BCCe87fF857caa49E8A0461e82e2D551": {
+            "amount": "766388287795908845",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x205F9409E0a28dBc7E19A53CC14b9b2eafF9c2B1": {
+            "amount": "12677861347320058132",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x21210E9f52300880E61D0fD0D08d1b882a6369f9": {
+            "amount": "1308625514354552803440",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2126D723eCb1703d51caF3906355f802BbF2989D": {
+            "amount": "14029769745765670351",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x21F35f686f4e907A1A46D67fE506E9f2a1ef64d0": {
+            "amount": "66510733530704596965",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x22bE1f5e8544e71A390cED1b6a82b477b1127Ce5": {
+            "amount": "125000579748157240161",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x22e81335f9D4A609DF42f56ba5B583f565995296": {
+            "amount": "778643324846372618740",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2346B18e56010272035e8eA7CF4C757Fc4E3f46a": {
+            "amount": "1597278887792227808763",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2437Db820DE92d8DD64B524954fA0D160767c471": {
+            "amount": "543824601558518672852",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x25CC275CFE3Cce1700E816e00d4CD1f60872038A": {
+            "amount": "550058606505628635",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x25E937F3C4cbaEf3F92A19eE077D8e41D1ABBbC6": {
+            "amount": "263089132963981497",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x28060dcBF0ce053473434BeF98cd4Ea60941523A": {
+            "amount": "2889131279072179816",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2b285e1B49bA0cB6f71D8b0D9cAFdFBf9868fDA9": {
+            "amount": "1373217970845602014214",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2B29833a831207A3B92102b0708B32D624AA0F65": {
+            "amount": "2634949497285420124",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2C287B06b9A3556a909473D41245De1A29f2E35A": {
+            "amount": "33881930400478059696",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2dCa7bF37C703e685b8ffC2985F6EE6c96a3F9eD": {
+            "amount": "820284705953307827609",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x2eEbe0b8a8eF9Ac79c7222BBD899fa2FB553C4bf": {
+            "amount": "1094391982719973266",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x3006ef6777ccC79C3aF305101Fe0B3D14bd47b59": {
+            "amount": "20009996412361805075",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x305308cC98560E63e933A6bD70392617c9829BF8": {
+            "amount": "451546925571134478334",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x3070f20f86fDa706Ac380F5060D256028a46eC29": {
+            "amount": "77336932969762052116",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x32F41B50f8d569f22DFFeDc0F17210fb49350784": {
+            "amount": "1310191123462685252047",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x33f6EE932cEa603Fafd6854827259bE172C91Da4": {
+            "amount": "548451673337083391",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x343E3391e48d3a33F731D35A5179a26fd2b5f693": {
+            "amount": "172738486387514222160",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x34475AB5EC2795Bb4f6E9CeFC241bE51455ad266": {
+            "amount": "43990934285408525",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x34925b991dce4e9A94490C8882a37c3Dc3C6C631": {
+            "amount": "526178265927962995",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x3704fa506D4A38199e7Aa1BbeA7d55846CA35fbe": {
+            "amount": "239763412063306792417",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x3a0c5583d5AbADEcD7bb043709c4b1aED89267D6": {
+            "amount": "2069965772405729932369",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x3b78637E124f302cA73257Ea6bABC705ac0208dc": {
+            "amount": "673386849154186977",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4089EDF29eC3008d7D99Bf565D03E8Ebb388E8a3": {
+            "amount": "12509503114452929218",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x40aED6E410a780154a4dCF62c37dD8Ba54F08FfE": {
+            "amount": "577313671538528150824",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x41587094C1Ba4463e29E772aE03BF9a132e8809C": {
+            "amount": "4492188808790880091",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4188c45B8dfC8998Ceee2398e746deC2797B0961": {
+            "amount": "3579100141089797759717",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x42556f667Dfc74704914F98d1e0c0aC4Ea2f492e": {
+            "amount": "894044476083232583987",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x426cf0A8423A9522A78cd3325984AE000D425EeB": {
+            "amount": "5493419032573630613",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x427197B1FB076c110f5d2bae24Fb05FED97C0456": {
+            "amount": "61815742094750473224",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4281579D99d855F2430C95a13720e53a0fCC0549": {
+            "amount": "28113662734382479022563",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x42b23bB838525D458F2B8109219eF45d229067B7": {
+            "amount": "437068063218509364644",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x43079513eBD84AFb15BE79021C420Fe8055Bc635": {
+            "amount": "194422663313473848915",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x44aFfd16cc53Ffb96E40c3caeF33261600DeF1AA": {
+            "amount": "757363760251182457529",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x461F635488972409981EDbD043834dbaA7239FA6": {
+            "amount": "9343594811873133947924",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x477c8ece9393713D258169Aa50cDaF27E422214d": {
+            "amount": "1523777702872175052099",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4796E4aFD565e43B7267F1688ec09B6A246cB5fc": {
+            "amount": "3245592942610451328588",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4929f4d38F2955649b5aa34343da04cf790B9D92": {
+            "amount": "5542807974069529710119",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x49e2a5Af17fb2b37a0FF460217dC7A9FF4F34f90": {
+            "amount": "159730620536051987724",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4c32f7CE77908124862f59055Cdf1bda71861D5B": {
+            "amount": "42819935062249317384",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4c8330894F7081913d2Dd0DD7E54845eB5F2d870": {
+            "amount": "12824321043703002922",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x4CB11cc4Ce988B40a6C20E798904199519a665fa": {
+            "amount": "562546231282606760",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x50bE72F4DAc794D00f84786dc414F0107F6F972B": {
+            "amount": "1369439952952389890328",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x519A0dF0Bd2b586b6F7126799c30A243E13ABCbe": {
+            "amount": "4392088445489595909137",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x52542FfC9120723Ac5BD1E7b6B2DA9b066621Ae3": {
+            "amount": "60808477783745851",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x52876dAFDc67238390477Bb2403BdC8021944ddc": {
+            "amount": "1895810014533376226312",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x542256Ef33279C5545AA71f4b3B6298990f30Ffc": {
+            "amount": "164003367111502238613",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x54881e63F225A8653c2dA91fc3d9769e35B81b1F": {
+            "amount": "1095201443872197257",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x56FcfEb7D7Afa46C9aA58F08a04Fbb11Eb27808C": {
+            "amount": "3035931830475577423143",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x583C3EA145261F7510Df3f0Ec30e70d36aA63fe0": {
+            "amount": "1094471899537661219",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5b05DF99fC93d76d31603427798c58fe15b62431": {
+            "amount": "1094559788133908932",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5b0D3243c78fB9d4AC035fB2384FFdf7A9eF6396": {
+            "amount": "272328014568958277323",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5c2cF283C3baCB15b3137d5E8af30643b33189b0": {
+            "amount": "189551397519813162916",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5C7a20b1EFa9A2aB5F448b651Aa264F233076C4C": {
+            "amount": "3273572810681813280485",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5cfBB3bEE9D6395F3909546AcF49780cCBd3fBC3": {
+            "amount": "1094232175354873967",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5d47e5D242a8F66a6286b0a2353868875F5d6068": {
+            "amount": "143278752136217340154",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5E744ecAc619E7b76C2F22e4B6015F5590eDD204": {
+            "amount": "5477208680224554798",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x5f73a24771940b8c80b3570694072f606DF913cc": {
+            "amount": "57013033217258118886",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x62661B101ca48734668669a9F1Cb83c4889049F3": {
+            "amount": "51618587099063833533",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x64B7fcC8C17540139BDd84d00c7261035602Cb66": {
+            "amount": "4599476331933863293383",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x657340f8F3187bB251700edE07140aaA93C08c35": {
+            "amount": "1099209077706384597",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x6593f0DC654597A5Bf2f78224FEEF81a545C1222": {
+            "amount": "126374379377508075051",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x65B0F840ea292fc284C23Fc839e65b3951d46195": {
+            "amount": "68168426432558094250",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x66a3Bd05e7eE207cB4688c56a4aA055708994Ecf": {
+            "amount": "644113594914890840995",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x66d0E180af64fb368679F91765Affc99174396AC": {
+            "amount": "258356452202389288521",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x67017BEbE2A4B8645B28F83D5D472618b35a1230": {
+            "amount": "1071056447645773669903",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x67815fD7E84FA3754002aBA34D98298cFeEB0eCd": {
+            "amount": "650556599128894141",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x67e326eD4972650FbC9541b81A57dED004f3e4Ee": {
+            "amount": "1461120796731761773153",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x6b238d58bd9238A65e3A1B59e52722866F026663": {
+            "amount": "1695183533607162821",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x6C56Ec6B28f2D1941d6C6B65988EE51dcB6accCb": {
+            "amount": "1817957985579820811",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x6dED274b6DE680BF0Dc9352d84c26dF0A58dBD1b": {
+            "amount": "2578273503047018679",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x719028736f10164c838Ef129936779eD739312f2": {
+            "amount": "769764181599291417",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x71cfAfC5F334527Fd65821C0CbA69F000ad14F07": {
+            "amount": "1063242393401347860",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x729D1ee0d3ef2B2b435e4C1093198993F1B6D2B6": {
+            "amount": "1686235601118570167",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x73197eD80b1784B2facE98d1600c37190fDbc3D9": {
+            "amount": "114396288328178349361",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x74C4623d7609F3eB2665aD32Ff96B44856b6051b": {
+            "amount": "66491262384354827942",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x76977d13dbAd4672fabdCc1B2c739f5230d8c2e1": {
+            "amount": "135202500550180125964",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x778378A4be961B7139Ca7848f6D7877Ef01E5693": {
+            "amount": "69125219020163838954",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x784F0d732aF31C7d70F2e37761D388Ce172c7482": {
+            "amount": "3630017452658829421977",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x797BC498EdEE4357a16a1054dB0323CbD04C84c3": {
+            "amount": "17550021491723540995",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x79939118Ef2af99E20310eCC5CCC0E9697d390FC": {
+            "amount": "5376715001539803444016",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7A57546e74Ada6D8d93892Ffa11a57373dB45E13": {
+            "amount": "301803999415759415681",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7B79c37Bb80cc76Fe6b758c7140228FEcc7e2A2e": {
+            "amount": "14419964910031530233",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7ccf173012bfE53F16F4D6A2a4aea32abAfcD04C": {
+            "amount": "9470371740816630456919",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7Cfed2A2d4a98680daC6aA55120f5AF2EC562EbD": {
+            "amount": "2130819679670225956534",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7d0a2547b23e5F91F448bD9D2ae994748Af2C1E3": {
+            "amount": "465211574018321152223",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7dd508a1e4Da1243789B799a480f8B45e58b1B5b": {
+            "amount": "49801976883756271830",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x7e9463a9505bf728359d7d5498dEa59D03B96A69": {
+            "amount": "880198561241329341",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x802dbD9Af9055C0c8C92C610106618289D31eff9": {
+            "amount": "374706202468524254",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x8061199A31983A077E691C08B2263a4CF5c24093": {
+            "amount": "678893389886960559719",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x80FDc30D21A672EeF723b809Ed4ba7c91728D421": {
+            "amount": "1051211760129959488652",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x82aeb97DA0eB292ed270a07cD797F9D372Cf1e58": {
+            "amount": "52617826592796299",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x84bcfa8Fe160b271dc49B1Fb263ad995e0C2c1dF": {
+            "amount": "1308625514354552803440",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x854f18D14E09Af41AA458A9DF7aa5Bd0cd3BE7E6": {
+            "amount": "1090086061385198960591",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x876EF6B0Bb42C9f28e71B0B2bA4E291EB9CcBaD5": {
+            "amount": "109492833796619527",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x88535807ec0372e036De140612B3cc1bAb2bC7a5": {
+            "amount": "3583126865762542290",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x88E189A8a370ddff635EEa3C511968C3b6eC4076": {
+            "amount": "1094152284804903372",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x89d2D4934ee4F1f579056418e6aeb136Ee919d65": {
+            "amount": "24392721557465135180252",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x8Dff636eFb8F6889Af1d0d588CD4a05994D478Ee": {
+            "amount": "86435955376444670",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x8e2540edfA7410B6f32f54D4cBF715Acfe2F2e5B": {
+            "amount": "830854298622279658801",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x8f9f865Aafd6487C7aC45a22bbb9278f8fc06d47": {
+            "amount": "2224091944787407400556",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x8fe4e9F56152Cece6771Fd01A1ef596cAEC3EDBf": {
+            "amount": "150184021734055277935",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x91B26b4B49525fDFfff2B099190149a52A36c3cA": {
+            "amount": "424268843211234805542",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x929A5753C41eaed288F946bCBFe4a954Ad341797": {
+            "amount": "837041689553536584889",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x955A44E6baC7c2424Bb52b81870C01D28fCE0038": {
+            "amount": "600822927393082515965",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x964Ca78fA3ab137e5BA050DD2C3531B629374A39": {
+            "amount": "108700381661963828354",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9990f00DD8167b83256A3159B2188DB4Bfe59116": {
+            "amount": "191142081583088098256",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9A456152E0Da127C30a49357A461f4c3F80bd630": {
+            "amount": "3417981410733963597253",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9aDe42F4Ac329Ea6C37313c00366e6CCcba7B5AE": {
+            "amount": "243456556502809130481",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9b560604691B60fB6dD7C4D3E585d588cA95dbF7": {
+            "amount": "4300869111847020079",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9c57027B1eca93093a6F446422C59C85A5A3Fa52": {
+            "amount": "42010153894733288500",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9DFd699CC5003acE9f332a9B1384a8d4A20c57dc": {
+            "amount": "712372403578903065",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0x9FEfB01133F63D81b10BCa1Ee47BE40ef6535443": {
+            "amount": "35710641357913172",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xa056D660D21FF59a52e2d9Adf1eEfAFFAa875814": {
+            "amount": "637945436040808715",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xa1E91a4CF28f8C098C7bAb3093734Ad38B89f278": {
+            "amount": "184682036023037158140",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xa30C7B2e676bE6b0C26D631c8161b62eBeBC3cD2": {
+            "amount": "22095069302593452388231",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xA657c9292208320cC27Ff2CEE72388E9d7AfAD4A": {
+            "amount": "845215613499142163",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xa6D1FEda6fc70680816eF6A23faf5e454e2f9C09": {
+            "amount": "543055925624041509412",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xA742A54E0b9Cd1Cac03c8F569bA4C606694261f9": {
+            "amount": "3285944603204449192957",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xa8Ea1D3A26652996d1342880D1708C6742f33bCB": {
+            "amount": "789267398891944493",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xaA1A54BfA93Be8Ac8D01182827433F227ba59e17": {
+            "amount": "162871595657662249515",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xAc2e236d045AE9d80Cf42Df2BC7695F834d0e0Ff": {
+            "amount": "722453254471775235",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xAC9283ebcd0c41FAA7A5399Ad94acc444954b446": {
+            "amount": "1308625514354553324517",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xad0fC6eC468B12a52B54f8C4DA32487Ee679B336": {
+            "amount": "624260525588264937",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xADa1c199aa6f0D4340a2d8225ECd0804aAAF4690": {
+            "amount": "531621196700673929",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xB0331b22161cA290A15f825A29C008dCB5e1ff68": {
+            "amount": "358155858303392613871",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xb1a4c8Fc3F563ED8b09393242A84fa1c9F82EF93": {
+            "amount": "1094312074659470762",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xB26B5137BE5A7bB991Fa63A36a8EaA3daF394B7b": {
+            "amount": "769862228727379159",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xb3a7FBC2fa38C18ad4433aE93FE7F215Fd2D057f": {
+            "amount": "40907734428615654970",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xB478d2e5D241683667e15c9c79a2Bc0e5aF35923": {
+            "amount": "454400353060502324534",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xB4dC4C7460c58E7652Cd615675a1F707EbB67E9a": {
+            "amount": "387067277534037016226",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xB6fcA91D1c166564cC9888F96b3B553f42C96349": {
+            "amount": "256874927509910958087",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xb843De66d048E87d986C6dDA826a79e9a724D894": {
+            "amount": "843034180379196539",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xb8530006b544561E8Ae916bD34b06E6D7Ad0c001": {
+            "amount": "850593914721078287",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xb8767b8AC030cb2DDb7605F6E79f342f707F73E1": {
+            "amount": "1056975664113302882835",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xBA7e9Bb153F9c4C32903b721eB53B751E2c0bF12": {
+            "amount": "159101939704192520706",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xbD1bfF03034aC340235E48EE35c85b1121b8198e": {
+            "amount": "49458761870848455697",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xC04A14172EFb4558Bb49Bc360039D8df4F5F9577": {
+            "amount": "52331797004988921985",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xc330Feb66993346B932d397e085B6FC4234f97d9": {
+            "amount": "81248231479753919",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xC3598d91844B061195136600AD243b077Cc164e2": {
+            "amount": "8265766276173646215151",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xc4d6fdEA25346267441622FeB0e2618544Cef228": {
+            "amount": "739750582772393958677",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xC9C03900134fa324422519852094792298c71825": {
+            "amount": "105122105552506515193",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xCaB5541bad35e9ee799BeA9765C3c416D8Cc1Bb8": {
+            "amount": "90082041663282845993",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xcFF03aB20709c928d7478764473e386F7b23EDD1": {
+            "amount": "220611938171521067227",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xcfF7303b8E08403438c751bF21c04771252fA413": {
+            "amount": "2001786644758080189421",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD2602C7bDFC9F413974e944280BbFae275d1B1b6": {
+            "amount": "10936497511449009966",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd27d90b337717Fd91C4D409F712B890D4eE2FdD6": {
+            "amount": "1257226857220469089914",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd2B0C055774F1057d1dCd8f3c26c83300Dc81F3c": {
+            "amount": "769131692948003906",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd384Cc029B537503895fE252f94FBA87A05D677E": {
+            "amount": "40702342069081591837",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd39ce81CE8e7243494d4149d05dDDD536ddc2e55": {
+            "amount": "2011448240663611078981",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd3C808920D8fCcBeBd181Aae8D4FB2ACd1A433cD": {
+            "amount": "3638499304531357956181",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD506Fb416B0ad8DBf7859B9B38c435405E3d1110": {
+            "amount": "4252969573605391442",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD5a7412e7f78E03E6Fb2bd133F6473bfe8a45eB8": {
+            "amount": "1320155067060899270104",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd5F1b41FCFfd669E4DE960263f12C26AdA9279D7": {
+            "amount": "123621497054142847772",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD68965a3Bc263c3a2d43c713cd971aE16c31CB18": {
+            "amount": "425296957360539143",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD6ccB9d49A2ecd78efC35D6C733214029a1C74cB": {
+            "amount": "483993394501320563981",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xd6FC385c310b69C80dD1c553f935cE060f9B05B9": {
+            "amount": "766427470475297420",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD781F65cD90eE9418C70d1D244192C349Bf1176c": {
+            "amount": "130862551435455280344",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD84409d9593413Ca38A3B2b9A2Ba776E7C1EBCa1": {
+            "amount": "47231366325435493093",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xD9A0013af48591f8524280D6f8f98189cef45308": {
+            "amount": "11199434981936261624060",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xDb8D484c46cE6B0bd00f38a51b299EB129928AC0": {
+            "amount": "43598938846646544958",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xdC6b5549763D893b01A41aCF0D7d77CCb44f3417": {
+            "amount": "6619551331115817964840",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xdC6CE98A9020905973C9C026c6f3e34df9998D8A": {
+            "amount": "1353529766827868128639",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xdD62107B880489C9183b01Bc231De0631fD050C8": {
+            "amount": "106678653471268567",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xDe255AEefD61d58Eb2eE99C8Fd08c4c46213a734": {
+            "amount": "549355657928710464",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xDE2cA70e71829962A99A2552D826ac37e51882E7": {
+            "amount": "392587654306365841",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xdeEa4b6448fDdb2a8223a4af773378e047BA253D": {
+            "amount": "797084591758048079897",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xdfBaeeF21396BF205D4B7D23345155489072Cf9B": {
+            "amount": "921476740947834811",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xe0260a8dF025590E1982b5B284b7B1786916C04D": {
+            "amount": "177207065566891309",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xE26EDCA05417A65819295c49fC67272Ab247D791": {
+            "amount": "2862311346268494454028",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xe5cD86ff7f825a0ff6f699828D5c9bf163C0e3F9": {
+            "amount": "155522980717257477668",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xE70CfdB698Dde588c398Afc0563EbF5616aD33B2": {
+            "amount": "48681076974924708816",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xe76d0d3c7aF5fa2C0806F221cBA88d7E044178AA": {
+            "amount": "2499541934094284213",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xEC6Ba66a6D19fC4B6e123fBDBa59e310d6D767E0": {
+            "amount": "6491741475709052586",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xEDDb8B0C46193cAEa0c2b453fb1e256AB68826Df": {
+            "amount": "6575469854416225930",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xedf4FA418216A13E7629fED73e7448985CC8Bc82": {
+            "amount": "119609354468268197764",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xEeaA36420519d85EfaB3b7120ac5Afa5a5825bFB": {
+            "amount": "8342486999697516944654",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xEed8e6512ff83092ffe544bD308e94934A113Ea0": {
+            "amount": "297758462718192181373",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xefE7a2bbe01adc090AB28eD422a359b553aAbC16": {
+            "amount": "632629809023220136780",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xf06e77fd9289763C1EfdA7B6901f388F47656102": {
+            "amount": "2423333232844379713",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xf0754756E71aac7aD2B6497E7006F5E44D68D592": {
+            "amount": "659684943932984939347",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xf08d3B4048f472db9AFCa622fea6C54Cc1fe141C": {
+            "amount": "24245449734613027152",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xF3DD72AC3c9833574491861793e8fFe1f07c8905": {
+            "amount": "897585931500939547692",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xF42B1a25d903489c46F74c79A4Cd1c22330D231d": {
+            "amount": "108096309995803698",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xf51CE4614232337920AD06Bb718dAFB6103BdE02": {
+            "amount": "920811965373935242",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xf664ec073b41FD45ba6b6E9B8a83879214b2cE50": {
+            "amount": "12442947607760310882",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xF8C84C6A4f1083f7a7Fd94885B303A3974116D82": {
+            "amount": "3925876543063658410320",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xfaFB1fCf2252A1836cB09cd5027aBd42aFfccAF4": {
+            "amount": "1096787113991698368",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xfB8aA192dA69DD3DE22a9354EA99538315446c0D": {
+            "amount": "1201913560091116861138",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xFB9e5F5874565A6eF8FCF1DEbc4975501331a8Ca": {
+            "amount": "818500534776109250078",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xFbEA6F2B10e8Ee770F37Fff9B8C9E10d9B65741D": {
+            "amount": "6687291978585301175343",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xFd0693e6f986C093a162eF1A546db46C08459512": {
+            "amount": "458917225170870411",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xFd28D67eD154B734257276e5d090721434bd51A4": {
+            "amount": "110060770883395478661",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xfF6139236404725d723E47Ee0068A8572a2f2f71": {
+            "amount": "565085746636079424",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        },
+        "0xffAd4836B73A1CE5D86230e98Cb3E52cde35379e": {
+            "amount": "857682197343753940",
+            "metaData": {
+                "reason": [
+                    "Distribution for epoch 15"
+                ]
+            }
+        }
+    }
+}
