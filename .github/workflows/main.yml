@@ -2,6 +2,7 @@ name: Update PR with json formatted merkletree
 
 on:
   pull_request:
+    types: [opened]
     branches:
       - main
       - 'epoch/**'
