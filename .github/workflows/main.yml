@@ -1,7 +1,7 @@
 name: Update PR with json formatted merkletree
 
 on:
-  pull_request:
+  pull_request_target: # Run only on opened PRs
     types: [opened]
     branches:
       - main
@@ -9,6 +9,7 @@ on:
 
 jobs:
   update-pr:
+    if: "!startsWith(github.event.head_commit.message, '**GENERATED**')"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
