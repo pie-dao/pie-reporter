@@ -19,6 +19,6 @@ jobs:
         uses: gbonumore/ts-reporter@v1
         with:
           owner: ${{ github.repository_owner }}
-          repo: ${{ github.repository }}
+          repo: ${{ github.repository_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.event.pull_request.head.ref }}
