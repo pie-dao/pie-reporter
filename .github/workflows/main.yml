@@ -3,7 +3,7 @@ name: Update PR with json formatted merkletree
 on:
   pull_request:
     branches:
-      - epoch/**
+      - 'epoch/**'
 
 jobs:
   update-pr:
