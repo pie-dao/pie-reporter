@@ -1,0 +1,24 @@
+name: Update PR with json formatted merkletree
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - epoch/**
+
+jobs:
+  update-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+      - name: Run TS Reporter
+        uses: gbonumore/ts-reporter@v1
+        with:
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.event.pull_request.head.ref }}
