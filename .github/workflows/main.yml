@@ -18,7 +18,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
       - name: Run TS Reporter
-        uses: gbonumore/ts-reporter@v1
+        uses: gbonumore/ts-reporter@v2
         with:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
