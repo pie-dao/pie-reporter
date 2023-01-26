@@ -2,7 +2,7 @@ name: Update PR with json formatted merkletree
 
 on:
   pull_request_target: # Run only on opened PRs
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
     branches:
       - main
       - 'epoch/**'
