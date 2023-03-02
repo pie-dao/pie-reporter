@@ -6,15 +6,7 @@ import calendar
 import time
 import datetime
 
-
-# python datetime in UTC
-def utc_at(timestamp: int):
-    return datetime.datetime.utcfromtimestamp(timestamp)
-
-
 # get_db
-
-
 def get_db(db_path, drop=False):
     db = TinyDB(f"{db_path}/reporter-db.json")
 
@@ -25,8 +17,6 @@ def get_db(db_path, drop=False):
 
 
 # misc
-
-
 def yes_or_no(question):
     while "the answer is invalid":
         reply = str(input(f"{question} [y/n]: ")).lower().strip()
