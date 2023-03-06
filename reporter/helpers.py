@@ -3,12 +3,10 @@ from tinydb import TinyDB
 import csv
 import json
 import calendar
+import time
 import datetime
 
-
 # get_db
-
-
 def get_db(db_path, drop=False):
     db = TinyDB(f"{db_path}/reporter-db.json")
 
@@ -19,8 +17,6 @@ def get_db(db_path, drop=False):
 
 
 # misc
-
-
 def yes_or_no(question):
     while "the answer is invalid":
         reply = str(input(f"{question} [y/n]: ")).lower().strip()
@@ -37,8 +33,16 @@ def get_dates():
     (_, n_days) = calendar.monthrange(year, month)
 
     date = datetime.date(year, month, 1)
-    start_date = datetime.datetime(year, month, 1, 0, 0, 0)
-    end_date = datetime.datetime(year, month, n_days, 23, 59, 59)
+
+    start_date_local = datetime.datetime(year, month, 1, 0, 0, 0)
+    start_date = datetime.datetime.fromtimestamp(
+        start_date_local.timestamp() - time.timezone
+    )
+
+    end_date_local = datetime.datetime(year, month, n_days, 23, 59, 59)
+    end_date = datetime.datetime.fromtimestamp(
+        end_date_local.timestamp() - time.timezone
+    )
 
     return (date, start_date, end_date)
 
