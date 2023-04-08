@@ -1,0 +1,8 @@
+{
+    "date": "2023-3",
+    "start_timestamp": 1677628800,
+    "end_timestamp": 1680307199,
+    "block_snapshot": 16950603,
+    "distribution_window": 18,
+    "slice_to_distribute": "260297.17"
+}
