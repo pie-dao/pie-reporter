@@ -2,10 +2,10 @@
     "chainId": 1,
     "rewardToken": "0x1083D743A1E53805a95249fEf7310D75029f7Cd6",
     "windowIndex": 19,
-    "totalRewardsDistributed": "610480531202882950629429",
+    "totalRewardsDistributed": "623573604701986850629429",
     "recipients": {
         "0x0008bb335a71A97AE89CF99388d7BE70d7Ef4660": {
-            "amount": "2991569769245301038",
+            "amount": "3022003046253791449",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -14,7 +14,7 @@
             }
         },
         "0x002B5dfB3C71E1dC97A2e5A0A7f69F3e7b83F269": {
-            "amount": "1748173542109880453",
+            "amount": "1761030948118012919",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -23,7 +23,7 @@
             }
         },
         "0x00BA3CA0B6Df1486c912893d9f288311A60ED753": {
-            "amount": "4530517724771785208608",
+            "amount": "4653455988274542323438",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -32,7 +32,7 @@
             }
         },
         "0x00C67d9D6D3D13b42a87424E145826c467CcCd84": {
-            "amount": "2097146639012270160188",
+            "amount": "2110872161000386757636",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -41,7 +41,7 @@
             }
         },
         "0x00d5D64dc14C601909aBDe7522e1BBbB7b582732": {
-            "amount": "84796359984949971213",
+            "amount": "92481204111949722155",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -50,7 +50,7 @@
             }
         },
         "0x0252d89c8781b88858d5A2dbb8b9CF613f84917D": {
-            "amount": "676228621020734395628",
+            "amount": "694578482438248402562",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -59,7 +59,7 @@
             }
         },
         "0x026247030937744C72544556faa78EDbEA487265": {
-            "amount": "109960218007741518040",
+            "amount": "119925588404659307557",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -68,7 +68,7 @@
             }
         },
         "0x0331DEbc490c5540ef4773da5B9Df146aa2D58c3": {
-            "amount": "21654983898121485007",
+            "amount": "21775098090389387076",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -77,7 +77,7 @@
             }
         },
         "0x05553bA4d6c81d877543A168E3238C07978Cc083": {
-            "amount": "634392091015368661092",
+            "amount": "636086611037628742205",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -86,7 +86,7 @@
             }
         },
         "0x05f1F8c8D2212a6EE51d0aB8bd53558B0Db9eEf9": {
-            "amount": "562814841533335359",
+            "amount": "573119964635745258",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -95,7 +95,7 @@
             }
         },
         "0x0735D535F2009602A8a1c5b8fBd0454c3ca1b2B0": {
-            "amount": "2023184951202359",
+            "amount": "2206540239010010",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -104,7 +104,7 @@
             }
         },
         "0x075Fad58CEC5FB6abB30Bd8f298dE5E91e4Cfbdf": {
-            "amount": "1263910978711207037",
+            "amount": "1378455504720616227",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -113,7 +113,7 @@
             }
         },
         "0x0810C422E4abD05c752618B403d26cf60bB50B5C": {
-            "amount": "1207714505605604235444",
+            "amount": "1317166110923838241084",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -122,7 +122,7 @@
             }
         },
         "0x096CCeE5E0e56913cAE154e59a36a3B4c0A00276": {
-            "amount": "17517324837064163193",
+            "amount": "17646160648945087029",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -131,7 +131,7 @@
             }
         },
         "0x09F213953D92F865b949B3E39b9dcFaE687d4966": {
-            "amount": "2492648560794155258",
+            "amount": "2510981405794793699",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -140,7 +140,7 @@
             }
         },
         "0x0A41387C22272749b22B4f777F1543964C19A854": {
-            "amount": "4525388221154444774",
+            "amount": "4584737716496107567",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -149,7 +149,7 @@
             }
         },
         "0x0C76E22f480c55f31bf6f937517Fca0f45804306": {
-            "amount": "82865271390247889224",
+            "amount": "90375106650730888909",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -158,7 +158,7 @@
             }
         },
         "0x124C5E21A073Fb4694308fBDF72aF362451EAe12": {
-            "amount": "14418215807188197005",
+            "amount": "15724896201103109941",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -167,7 +167,7 @@
             }
         },
         "0x1302E7f449339B711eDeC50f80dC65610519F407": {
-            "amount": "283070661043285773329",
+            "amount": "290751949944763825348",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -176,7 +176,7 @@
             }
         },
         "0x14B30b46ec4fA1a993806bd5Dda4195C5a82353e": {
-            "amount": "164118321236599838898",
+            "amount": "168571768424654178188",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -185,7 +185,7 @@
             }
         },
         "0x16765c8Fe6Eb838CB8f64e425b6DcCab38D4F102": {
-            "amount": "18380389358332876213060",
+            "amount": "18567373291188692678747",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -194,7 +194,7 @@
             }
         },
         "0x17196B4d4b38335018FbACc031aD198bc92C5bee": {
-            "amount": "249304170005898458",
+            "amount": "251137743650662407",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -203,7 +203,7 @@
             }
         },
         "0x1754352eacb753327Fec2d4F48f0fb36B672C5e0": {
-            "amount": "1717364196206209906149",
+            "amount": "1873003850543699409621",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -212,7 +212,7 @@
             }
         },
         "0x1959b5EFb8fdD52C688c1D685Ad8F3D82ea27B01": {
-            "amount": "27047500523733705449",
+            "amount": "29498735760561427947",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -221,7 +221,7 @@
             }
         },
         "0x198ca1beaCF70b82c4e6dE21E8Cb7b6dA6D8477A": {
-            "amount": "5262782315228348286045",
+            "amount": "5316320666124016736639",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -230,7 +230,7 @@
             }
         },
         "0x19a61e7238270CA99F931C08D7BcfF1984F38AE4": {
-            "amount": "258364712102882562476",
+            "amount": "281779544305352249038",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -239,7 +239,7 @@
             }
         },
         "0x19dd92C9A9c4Eb6f0426846C4F8a071A7b79209A": {
-            "amount": "336870061099371107614",
+            "amount": "367399601648765206412",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -248,7 +248,7 @@
             }
         },
         "0x1A1087Bf077f74fb21fD838a8a25Cf9Fe0818450": {
-            "amount": "707108500365983314637",
+            "amount": "771191659208574924703",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -257,7 +257,7 @@
             }
         },
         "0x1b50afeD405C9930eAe5fb3803418b03F9615B1C": {
-            "amount": "352779147355443445651",
+            "amount": "384750481492470421589",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -266,7 +266,7 @@
             }
         },
         "0x1c1A631450FF768b6355180538a5C09Ee9774F34": {
-            "amount": "13593473819673473778",
+            "amount": "14825410278587314486",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -275,7 +275,7 @@
             }
         },
         "0x1CA4C34b18ECF1df4bA7E2AE0EC1FC5960C349d9": {
-            "amount": "652934073724836407068",
+            "amount": "712107563986362894645",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -284,7 +284,7 @@
             }
         },
         "0x1dE4F046c45Cd4E39cfCDF36b7DF4856B4031955": {
-            "amount": "15849141558267835786339",
+            "amount": "16027235334534618716533",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -293,7 +293,7 @@
             }
         },
         "0x1DF7f562F33bdeb744FF93d987590FC47502B028": {
-            "amount": "4121744989603968160",
+            "amount": "4152059456398474184",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -302,7 +302,7 @@
             }
         },
         "0x1e57d972AE6Bc70c101996f0d398BB683Ee052bf": {
-            "amount": "131331654474617364159",
+            "amount": "133736333183723390705",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -311,7 +311,7 @@
             }
         },
         "0x1Ec289BD5F002B7969887b8E18a1625052a67D0d": {
-            "amount": "260180073304032773517",
+            "amount": "283759426340504278744",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -320,7 +320,7 @@
             }
         },
         "0x1F2f40fD6770Da2bb833825A1DfD230238e4ECDB": {
-            "amount": "126404510343009157566",
+            "amount": "129834571087616141207",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -329,7 +329,7 @@
             }
         },
         "0x2024F13B2Fdb7957FEb422Af38eDd5218e79cE05": {
-            "amount": "3565705747141610567684",
+            "amount": "3888855147356358850695",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -338,7 +338,7 @@
             }
         },
         "0x20414D54BCCe87fF857caa49E8A0461e82e2D551": {
-            "amount": "1744962285206064784",
+            "amount": "1757796073173531250",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -347,7 +347,7 @@
             }
         },
         "0x205F9409E0a28dBc7E19A53CC14b9b2eafF9c2B1": {
-            "amount": "21969616147291831076",
+            "amount": "22091475517420327525",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -356,7 +356,7 @@
             }
         },
         "0x21210E9f52300880E61D0fD0D08d1b882a6369f9": {
-            "amount": "654876154772646133639",
+            "amount": "714225650114308926375",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -365,7 +365,7 @@
             }
         },
         "0x2126D723eCb1703d51caF3906355f802BbF2989D": {
-            "amount": "2592380172331354703",
+            "amount": "2827319945050691521",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -374,7 +374,7 @@
             }
         },
         "0x21F35f686f4e907A1A46D67fE506E9f2a1ef64d0": {
-            "amount": "151435928002303532709",
+            "amount": "152549703702280091904",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -383,7 +383,7 @@
             }
         },
         "0x22ADC81De50eB7f27D11653BB925507Eee90C59a": {
-            "amount": "2209684552694884194",
+            "amount": "2238664091390296714",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -392,7 +392,7 @@
             }
         },
         "0x22bE1f5e8544e71A390cED1b6a82b477b1127Ce5": {
-            "amount": "236643143511071961039",
+            "amount": "243064594413694884187",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -401,7 +401,7 @@
             }
         },
         "0x22e81335f9D4A609DF42f56ba5B583f565995296": {
-            "amount": "448299303979959251812",
+            "amount": "488927348319833264874",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -410,7 +410,7 @@
             }
         },
         "0x2346B18e56010272035e8eA7CF4C757Fc4E3f46a": {
-            "amount": "2486596649658239657757",
+            "amount": "2498259861251533706094",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -419,7 +419,7 @@
             }
         },
         "0x2437Db820DE92d8DD64B524954fA0D160767c471": {
-            "amount": "760740183030150126784",
+            "amount": "774669313281437578655",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -428,7 +428,7 @@
             }
         },
         "0x2459d93923CC940E3AA1935Ead83eF8011534BB1": {
-            "amount": "205628322736230859407",
+            "amount": "224263811436509948250",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -437,7 +437,7 @@
             }
         },
         "0x25CC275CFE3Cce1700E816e00d4CD1f60872038A": {
-            "amount": "1252408913718852261",
+            "amount": "1261620087268849449",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -446,7 +446,7 @@
             }
         },
         "0x25E937F3C4cbaEf3F92A19eE077D8e41D1ABBbC6": {
-            "amount": "715627955079425973",
+            "amount": "721562904613592252",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -455,7 +455,7 @@
             }
         },
         "0x27E5E6074e259d98d6468454C32673E0e6f354ce": {
-            "amount": "85695249265864492533",
+            "amount": "88020640264243599592",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -464,7 +464,7 @@
             }
         },
         "0x28060dcBF0ce053473434BeF98cd4Ea60941523A": {
-            "amount": "7858717256411687795",
+            "amount": "7923892309997888819",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -473,7 +473,7 @@
             }
         },
         "0x2984Bb4953cfCE2cEc957388BE686D6c38779234": {
-            "amount": "904821749672756780",
+            "amount": "914026512748713655",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -482,7 +482,7 @@
             }
         },
         "0x2b285e1B49bA0cB6f71D8b0D9cAFdFBf9868fDA9": {
-            "amount": "1780853021232850294673",
+            "amount": "1813460387380312014417",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -491,7 +491,7 @@
             }
         },
         "0x2B29833a831207A3B92102b0708B32D624AA0F65": {
-            "amount": "7167318160336492323",
+            "amount": "7226759202675579561",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -500,7 +500,7 @@
             }
         },
         "0x2b614ecc9e91aF9D056EB8ACcCF5D9928A7cF4F7": {
-            "amount": "134007456512828321497",
+            "amount": "134993049896436624366",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -509,7 +509,7 @@
             }
         },
         "0x3006ef6777ccC79C3aF305101Fe0B3D14bd47b59": {
-            "amount": "3697389115276410716",
+            "amount": "4032472590944561400",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -518,7 +518,7 @@
             }
         },
         "0x305308cC98560E63e933A6bD70392617c9829BF8": {
-            "amount": "739479219794494689195",
+            "amount": "743255390041025321094",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -527,7 +527,7 @@
             }
         },
         "0x3070f20f86fDa706Ac380F5060D256028a46eC29": {
-            "amount": "152130898870435157693",
+            "amount": "156259060301077603670",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -536,7 +536,7 @@
             }
         },
         "0x3170606aDd67Ee893d23E4aEe79c1A4997ce635a": {
-            "amount": "12622246403794451090",
+            "amount": "13766163385171475975",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -545,7 +545,7 @@
             }
         },
         "0x3211B0Ad2947310C521A1617c09aFD10D262a4b4": {
-            "amount": "1962520536626521364493",
+            "amount": "2140377987378976800931",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -554,7 +554,7 @@
             }
         },
         "0x3230a79C196958980f058D0DbD5e6A5Fd3EA1778": {
-            "amount": "271539451656162950994",
+            "amount": "296148271665405801721",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -563,7 +563,7 @@
             }
         },
         "0x33f6EE932cEa603Fafd6854827259bE172C91Da4": {
-            "amount": "1248750144634551152",
+            "amount": "1257934408796851003",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -572,7 +572,7 @@
             }
         },
         "0x34475AB5EC2795Bb4f6E9CeFC241bE51455ad266": {
-            "amount": "100161396568025762",
+            "amount": "100898060126302934",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -581,7 +581,7 @@
             }
         },
         "0x34925b991dce4e9A94490C8882a37c3Dc3C6C631": {
-            "amount": "1431255910158851949",
+            "amount": "1443125809227184508",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -590,7 +590,7 @@
             }
         },
         "0x392214B7643bfD9aAf8C0475289f77847401eD90": {
-            "amount": "2482346240057612232",
+            "amount": "2549706165502038925",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -599,7 +599,7 @@
             }
         },
         "0x3a0c5583d5AbADEcD7bb043709c4b1aED89267D6": {
-            "amount": "1035874060741247892437",
+            "amount": "1129752273124558118709",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -608,7 +608,7 @@
             }
         },
         "0x3b1aeeA1C8E8f627D0411Ebd2F3b655eD0Fdb7e4": {
-            "amount": "525061236196567",
+            "amount": "530402690777314",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -617,7 +617,7 @@
             }
         },
         "0x3b78637E124f302cA73257Ea6bABC705ac0208dc": {
-            "amount": "1533210611173531483",
+            "amount": "1544487015288447414",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -626,7 +626,7 @@
             }
         },
         "0x3bD99939365A7c4426e7556Dc1F54d868a1d2c09": {
-            "amount": "809338808057361565",
+            "amount": "824157777695522416",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -635,7 +635,7 @@
             }
         },
         "0x4089EDF29eC3008d7D99Bf565D03E8Ebb388E8a3": {
-            "amount": "21677866170699046628",
+            "amount": "21798107284589279998",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -644,7 +644,7 @@
             }
         },
         "0x40aED6E410a780154a4dCF62c37dD8Ba54F08FfE": {
-            "amount": "288905384441707851694",
+            "amount": "315088027744787292121",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -653,7 +653,7 @@
             }
         },
         "0x41587094C1Ba4463e29E772aE03BF9a132e8809C": {
-            "amount": "7784567214182221886",
+            "amount": "7827746050402358825",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -662,7 +662,7 @@
             }
         },
         "0x4188c45B8dfC8998Ceee2398e746deC2797B0961": {
-            "amount": "1791090966997672099398",
+            "amount": "1953412261226543542943",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -671,7 +671,7 @@
             }
         },
         "0x42556f667Dfc74704914F98d1e0c0aC4Ea2f492e": {
-            "amount": "447407147629923779528",
+            "amount": "487954338469858025355",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -680,7 +680,7 @@
             }
         },
         "0x426cf0A8423A9522A78cd3325984AE000D425EeB": {
-            "amount": "12507770775363020016",
+            "amount": "12599762493142597344",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -689,7 +689,7 @@
             }
         },
         "0x427197B1FB076c110f5d2bae24Fb05FED97C0456": {
-            "amount": "310989648659202643361",
+            "amount": "314257510969397614317",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -698,7 +698,7 @@
             }
         },
         "0x4281579D99d855F2430C95a13720e53a0fCC0549": {
-            "amount": "46987229314295305834442",
+            "amount": "48262255421603227166843",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -707,7 +707,7 @@
             }
         },
         "0x4282Ec9835edad61b9A58Fa02b78369D0978C430": {
-            "amount": "1202356398753624388498",
+            "amount": "1214587985568807098013",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -716,7 +716,7 @@
             }
         },
         "0x43079513eBD84AFb15BE79021C420Fe8055Bc635": {
-            "amount": "52317267230533309169",
+            "amount": "53736927052050827080",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -725,7 +725,7 @@
             }
         },
         "0x44aFfd16cc53Ffb96E40c3caeF33261600DeF1AA": {
-            "amount": "1148256541669412139285",
+            "amount": "1169281084986025962108",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -734,7 +734,7 @@
             }
         },
         "0x457Ca8F72395CBd473eba421dd87544086434345": {
-            "amount": "188223036797982859241",
+            "amount": "205281135744208398438",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -743,7 +743,7 @@
             }
         },
         "0x461F635488972409981EDbD043834dbaA7239FA6": {
-            "amount": "4675820068486987170089",
+            "amount": "5099575857044389084448",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -752,7 +752,7 @@
             }
         },
         "0x477c8ece9393713D258169Aa50cDaF27E422214d": {
-            "amount": "3469435356582536439050",
+            "amount": "3494952239159716926880",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -761,7 +761,7 @@
             }
         },
         "0x4796E4aFD565e43B7267F1688ec09B6A246cB5fc": {
-            "amount": "4347057509582696322796",
+            "amount": "4361502980996826043681",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -770,7 +770,7 @@
             }
         },
         "0x4929f4d38F2955649b5aa34343da04cf790B9D92": {
-            "amount": "9605197614359241440011",
+            "amount": "9658474982675475677912",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -779,7 +779,7 @@
             }
         },
         "0x49e2a5Af17fb2b37a0FF460217dC7A9FF4F34f90": {
-            "amount": "712098781482435806416",
+            "amount": "719342971371321678184",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -788,7 +788,7 @@
             }
         },
         "0x4c8330894F7081913d2Dd0DD7E54845eB5F2d870": {
-            "amount": "22223417890537932814",
+            "amount": "22346685028574713669",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -797,7 +797,7 @@
             }
         },
         "0x4CB11cc4Ce988B40a6C20E798904199519a665fa": {
-            "amount": "1280841543254853823",
+            "amount": "1290261832120360239",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -806,7 +806,7 @@
             }
         },
         "0x4D04EB67A2D1e01c71FAd0366E0C200207A75487": {
-            "amount": "7551278056331649001313",
+            "amount": "7572787476403034165084",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -815,7 +815,7 @@
             }
         },
         "0x4fcb2161e087F3A4153545A25304Bd4E123A0e07": {
-            "amount": "5338649180940649636",
+            "amount": "5822475217949141249",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -824,7 +824,7 @@
             }
         },
         "0x50bE72F4DAc794D00f84786dc414F0107F6F972B": {
-            "amount": "869869460693219142733",
+            "amount": "881835604454659745384",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -833,7 +833,7 @@
             }
         },
         "0x519A0dF0Bd2b586b6F7126799c30A243E13ABCbe": {
-            "amount": "2548118473051190134038",
+            "amount": "2779046938447611533422",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -842,7 +842,7 @@
             }
         },
         "0x52542FfC9120723Ac5BD1E7b6B2DA9b066621Ae3": {
-            "amount": "15136323442918199",
+            "amount": "16508083814888453",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -851,7 +851,7 @@
             }
         },
         "0x52876dAFDc67238390477Bb2403BdC8021944ddc": {
-            "amount": "1078849790109055487143",
+            "amount": "1176622766153144822552",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -860,7 +860,7 @@
             }
         },
         "0x535D6fD72494Adc3F2f5c6c270Ce7Cb25b9Bc95D": {
-            "amount": "382011090283890773",
+            "amount": "416631629233180221",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -869,7 +869,7 @@
             }
         },
         "0x542256Ef33279C5545AA71f4b3B6298990f30Ffc": {
-            "amount": "373413444351313593449",
+            "amount": "376159812573501368351",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -878,7 +878,7 @@
             }
         },
         "0x54881e63F225A8653c2dA91fc3d9769e35B81b1F": {
-            "amount": "2493625287197940434",
+            "amount": "2511965315791986410",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -887,7 +887,7 @@
             }
         },
         "0x55D4D190914cEFeCD37Ad6B67781Af942EFA55fE": {
-            "amount": "127320837033369880211",
+            "amount": "138859549153727910511",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -896,7 +896,7 @@
             }
         },
         "0x56446712B219fcC34a5604f5E7AF5d50d65B6647": {
-            "amount": "15687031946217236612829",
+            "amount": "15974261037185745619128",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -905,7 +905,7 @@
             }
         },
         "0x58E603d9824976F7a3940C6B408F0Ffa523a216C": {
-            "amount": "127458341849789044441",
+            "amount": "139009515626296944163",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -914,7 +914,7 @@
             }
         },
         "0x59AB3cb9CA8B7910Ba2D137A138B69bbF85bDf28": {
-            "amount": "841376717718742938847",
+            "amount": "856782300535236023998",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -923,7 +923,7 @@
             }
         },
         "0x5b05DF99fC93d76d31603427798c58fe15b62431": {
-            "amount": "2492164324026622569",
+            "amount": "2510493607579513254",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -932,7 +932,7 @@
             }
         },
         "0x5b0D3243c78fB9d4AC035fB2384FFdf7A9eF6396": {
-            "amount": "1198601632496377254239",
+            "amount": "1231126392862058662850",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -941,7 +941,7 @@
             }
         },
         "0x5c2cF283C3baCB15b3137d5E8af30643b33189b0": {
-            "amount": "106159088626976331664",
+            "amount": "115779973873789516997",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -950,7 +950,7 @@
             }
         },
         "0x5C7a20b1EFa9A2aB5F448b651Aa264F233076C4C": {
-            "amount": "1691892635529295022201",
+            "amount": "1845223877412426239298",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -959,7 +959,7 @@
             }
         },
         "0x5d47e5D242a8F66a6286b0a2353868875F5d6068": {
-            "amount": "354891660888546829436",
+            "amount": "361389716702980373360",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -968,7 +968,7 @@
             }
         },
         "0x5dA68351bD082aBDA73E42Ac981dB51d9364fe69": {
-            "amount": "6101398643871077392",
+            "amount": "6266963685171820083",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -977,7 +977,7 @@
             }
         },
         "0x5E744ecAc619E7b76C2F22e4B6015F5590eDD204": {
-            "amount": "12470861999577329003",
+            "amount": "12562582261975556137",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -986,7 +986,7 @@
             }
         },
         "0x5e8E40Cc5861CAeBC75fA470a48752F157A28024": {
-            "amount": "115608157826065361719",
+            "amount": "116249404227456709467",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -995,7 +995,7 @@
             }
         },
         "0x5f73a24771940b8c80b3570694072f606DF913cc": {
-            "amount": "114524244077019916822",
+            "amount": "117631926808026992727",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1004,7 +1004,7 @@
             }
         },
         "0x60ab39Aab2bCA84A9099CEBC89523C10FcBb12b0": {
-            "amount": "13998484775279712147",
+            "amount": "15267126183133738121",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1013,7 +1013,7 @@
             }
         },
         "0x62661B101ca48734668669a9F1Cb83c4889049F3": {
-            "amount": "89450461206669106666",
+            "amount": "89946618116615477328",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1022,7 +1022,7 @@
             }
         },
         "0x64B7fcC8C17540139BDd84d00c7261035602Cb66": {
-            "amount": "1245461983586749034119",
+            "amount": "1358334531555397966849",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1031,7 +1031,7 @@
             }
         },
         "0x657340f8F3187bB251700edE07140aaA93C08c35": {
-            "amount": "2502750126401426519",
+            "amount": "2521157266045704126",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1040,7 +1040,7 @@
             }
         },
         "0x6593f0DC654597A5Bf2f78224FEEF81a545C1222": {
-            "amount": "158696056860728148039",
+            "amount": "159119948724470997742",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1049,7 +1049,7 @@
             }
         },
         "0x65B0F840ea292fc284C23Fc839e65b3951d46195": {
-            "amount": "109455635307767644107",
+            "amount": "111459764752943656923",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1058,7 +1058,7 @@
             }
         },
         "0x66991c98912A882E29e9603B6e1B4c129B34a264": {
-            "amount": "444111294077412927197",
+            "amount": "456162515287145577037",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1067,7 +1067,7 @@
             }
         },
         "0x66d0E180af64fb368679F91765Affc99174396AC": {
-            "amount": "64309566143185010687",
+            "amount": "70137752539075963161",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1076,7 +1076,7 @@
             }
         },
         "0x67017BEbE2A4B8645B28F83D5D472618b35a1230": {
-            "amount": "858836124119478364002",
+            "amount": "874561388150781640333",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1085,7 +1085,7 @@
             }
         },
         "0x67815fD7E84FA3754002aBA34D98298cFeEB0eCd": {
-            "amount": "1769577038219111475",
+            "amount": "1784252751128460058",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1094,7 +1094,7 @@
             }
         },
         "0x679A51D6F75Ea1bdCd8Cb2d3F3e6dE4663718cAd": {
-            "amount": "302738944545814894",
+            "amount": "330175282619995514",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1103,7 +1103,7 @@
             }
         },
         "0x67e326eD4972650FbC9541b81A57dED004f3e4Ee": {
-            "amount": "1349497288883712553636",
+            "amount": "1367871418953444695313",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1112,7 +1112,7 @@
             }
         },
         "0x6b238d58bd9238A65e3A1B59e52722866F026663": {
-            "amount": "4611063604081636137",
+            "amount": "4649304745438415654",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1121,7 +1121,7 @@
             }
         },
         "0x6b49c89dc6480094c234a0dB749de8649D44B1Fa": {
-            "amount": "6125714422284447457",
+            "amount": "6188031392393193389",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1130,7 +1130,7 @@
             }
         },
         "0x6c1CdE903b3f64A1Cb4C9f633BCA5C6B945e164f": {
-            "amount": "1458503433877249391",
+            "amount": "1473340807712665089",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1139,7 +1139,7 @@
             }
         },
         "0x6C56Ec6B28f2D1941d6C6B65988EE51dcB6accCb": {
-            "amount": "4139243998690597654",
+            "amount": "4169687166588939885",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1148,7 +1148,7 @@
             }
         },
         "0x6cc87C563694ce0c9eCc525d9acAB7e4e279903C": {
-            "amount": "16206879410062813698",
+            "amount": "16503626892719092282",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1157,7 +1157,7 @@
             }
         },
         "0x6dED274b6DE680BF0Dc9352d84c26dF0A58dBD1b": {
-            "amount": "7013153959778374558",
+            "amount": "7071316465213204095",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1166,7 +1166,7 @@
             }
         },
         "0x6E1C5ACbAbaF0B3c73D4412c17C40D2F1D2e183b": {
-            "amount": "563465365696487140216",
+            "amount": "578755329848688207206",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1175,7 +1175,7 @@
             }
         },
         "0x6E2c266a5fd854373ede37CDcb1bF3Eb06900B07": {
-            "amount": "3042936386228787959",
+            "amount": "3073892216479966691",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1184,7 +1184,7 @@
             }
         },
         "0x719028736f10164c838Ef129936779eD739312f2": {
-            "amount": "1752648737960588328",
+            "amount": "1765539057983624038",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1193,7 +1193,7 @@
             }
         },
         "0x71cfAfC5F334527Fd65821C0CbA69F000ad14F07": {
-            "amount": "2420858859747681291",
+            "amount": "2438663708350180128",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1202,7 +1202,7 @@
             }
         },
         "0x71f05A99e85c7FfB236c21e41e8324f8c733bB38": {
-            "amount": "583447647067718846",
+            "amount": "594130556229218148",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1211,7 +1211,7 @@
             }
         },
         "0x729D1ee0d3ef2B2b435e4C1093198993F1B6D2B6": {
-            "amount": "4586724359975050470",
+            "amount": "4624763647583039098",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1220,7 +1220,7 @@
             }
         },
         "0x73197eD80b1784B2facE98d1600c37190fDbc3D9": {
-            "amount": "191007836059577605410",
+            "amount": "192012580066721004782",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1229,7 +1229,7 @@
             }
         },
         "0x73Cbc02516f5F4945cE2F2fACf002b2c6aA359e7": {
-            "amount": "943737433875610995211",
+            "amount": "961017238377469648941",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1238,7 +1238,7 @@
             }
         },
         "0x74C4623d7609F3eB2665aD32Ff96B44856b6051b": {
-            "amount": "479650152424603744789",
+            "amount": "485068642600802368345",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1247,7 +1247,7 @@
             }
         },
         "0x76E0266c3C4d2766722A13db031714cB208C922d": {
-            "amount": "9355826100235330823",
+            "amount": "10203717038860352560",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1256,7 +1256,7 @@
             }
         },
         "0x784F0d732aF31C7d70F2e37761D388Ce172c7482": {
-            "amount": "788108928369562249326",
+            "amount": "809494727739689055693",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1265,7 +1265,7 @@
             }
         },
         "0x797BC498EdEE4357a16a1054dB0323CbD04C84c3": {
-            "amount": "28740924730384123149",
+            "amount": "28887691024715983080",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1274,7 +1274,7 @@
             }
         },
         "0x79939118Ef2af99E20310eCC5CCC0E9697d390FC": {
-            "amount": "2773147441655942980179",
+            "amount": "3024469619094885688283",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1283,7 +1283,7 @@
             }
         },
         "0x7A57546e74Ada6D8d93892Ffa11a57373dB45E13": {
-            "amount": "553683638729665128283",
+            "amount": "556986986144200719078",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1292,7 +1292,7 @@
             }
         },
         "0x7B79c37Bb80cc76Fe6b758c7140228FEcc7e2A2e": {
-            "amount": "51687239411157369413",
+            "amount": "52175991718431638807",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1301,7 +1301,7 @@
             }
         },
         "0x7b86b43CC1E2d568398ceEd8fC74338Dc9F9d193": {
-            "amount": "76267557141696933",
+            "amount": "77043427962800893",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1310,7 +1310,7 @@
             }
         },
         "0x7ccf173012bfE53F16F4D6A2a4aea32abAfcD04C": {
-            "amount": "1922706459524313099639",
+            "amount": "2096955677840315786822",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1319,7 +1319,7 @@
             }
         },
         "0x7Cfed2A2d4a98680daC6aA55120f5AF2EC562EbD": {
-            "amount": "1101653249579137521365",
+            "amount": "1201492835930733444535",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1328,7 +1328,7 @@
             }
         },
         "0x7d0a2547b23e5F91F448bD9D2ae994748Af2C1E3": {
-            "amount": "928647668381250485531",
+            "amount": "934725533302314542549",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1337,7 +1337,7 @@
             }
         },
         "0x7dd508a1e4Da1243789B799a480f8B45e58b1B5b": {
-            "amount": "41402013487862446278",
+            "amount": "42525481478261254306",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1346,7 +1346,7 @@
             }
         },
         "0x7E938881C1b33af6E774b27908B32F28D5B35b9C": {
-            "amount": "146977394406396066946",
+            "amount": "150965712461898735240",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1355,7 +1355,7 @@
             }
         },
         "0x7e9463a9505bf728359d7d5498dEa59D03B96A69": {
-            "amount": "2394225444998603652",
+            "amount": "2414081582658718428",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1364,7 +1364,7 @@
             }
         },
         "0x802dbD9Af9055C0c8C92C610106618289D31eff9": {
-            "amount": "1019237208345046948",
+            "amount": "1027690094166424618",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1373,7 +1373,7 @@
             }
         },
         "0x804604F55FE79aD0237696465c57D3dE997C14C1": {
-            "amount": "4089391214941535743",
+            "amount": "4130992643368792334",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1382,7 +1382,7 @@
             }
         },
         "0x8061199A31983A077E691C08B2263a4CF5c24093": {
-            "amount": "168988771090977293620",
+            "amount": "184303725238512549264",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1391,7 +1391,7 @@
             }
         },
         "0x80658E3657882cFa73fff0eb20c92Aa5E948230C": {
-            "amount": "833973803329431863799",
+            "amount": "909554390582532348425",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1400,7 +1400,7 @@
             }
         },
         "0x80FDc30D21A672EeF723b809Ed4ba7c91728D421": {
-            "amount": "526058454289908955927",
+            "amount": "573733581189529243972",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1409,7 +1409,7 @@
             }
         },
         "0x81aFcF6Dd79897cBa488471eCEc2f41BF3f7CA9B": {
-            "amount": "77341631125896047421",
+            "amount": "78180415154695073784",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1418,7 +1418,7 @@
             }
         },
         "0x82aeb97DA0eB292ed270a07cD797F9D372Cf1e58": {
-            "amount": "13097523095452922",
+            "amount": "14284513002286178",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1427,7 +1427,7 @@
             }
         },
         "0x84bcfa8Fe160b271dc49B1Fb263ad995e0C2c1dF": {
-            "amount": "654876154772646133639",
+            "amount": "714225650114308926375",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1436,7 +1436,7 @@
             }
         },
         "0x854f18D14E09Af41AA458A9DF7aa5Bd0cd3BE7E6": {
-            "amount": "545512341323481836510",
+            "amount": "594950516655178726518",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1445,7 +1445,7 @@
             }
         },
         "0x859306346345552863de031A3E30e851b1A3eb0a": {
-            "amount": "2648134015115263107",
+            "amount": "2696621270609618158",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1454,7 +1454,7 @@
             }
         },
         "0x876EF6B0Bb42C9f28e71B0B2bA4E291EB9CcBaD5": {
-            "amount": "249300346205599957",
+            "amount": "251133891727210370",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1463,7 +1463,7 @@
             }
         },
         "0x88535807ec0372e036De140612B3cc1bAb2bC7a5": {
-            "amount": "8158294357349685958",
+            "amount": "8218296697140107041",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1472,7 +1472,7 @@
             }
         },
         "0x887C3599c4826F7b3cDe82003b894430F27d5b92": {
-            "amount": "171781818122803122200",
+            "amount": "187349897888970714811",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1481,7 +1481,7 @@
             }
         },
         "0x89d2D4934ee4F1f579056418e6aeb136Ee919d65": {
-            "amount": "40768305867831779420979",
+            "amount": "41874577829187580097758",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1490,7 +1490,7 @@
             }
         },
         "0x8bFD3c3fc34F068C66796880756cC93ffDC6d080": {
-            "amount": "205845702454480476442",
+            "amount": "209614731178236722395",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1499,7 +1499,7 @@
             }
         },
         "0x8Dff636eFb8F6889Af1d0d588CD4a05994D478Ee": {
-            "amount": "235114180865273804",
+            "amount": "237064063885211687",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1508,7 +1508,7 @@
             }
         },
         "0x8e2540edfA7410B6f32f54D4cBF715Acfe2F2e5B": {
-            "amount": "2166749358047298793294",
+            "amount": "2225545376451015945152",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1517,7 +1517,7 @@
             }
         },
         "0x8e851e94e1667Cd76Dda1A49f258934E2BCDCF3e": {
-            "amount": "1676833182328392381054",
+            "amount": "1828799630362974857982",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1526,7 +1526,7 @@
             }
         },
         "0x8F4C47b998EAEa625ADB90Eaa115FB35B67c7835": {
-            "amount": "14585034338772493948",
+            "amount": "14733408077126650929",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1535,7 +1535,7 @@
             }
         },
         "0x8F7640a064e43345532645B86b153CE05054af50": {
-            "amount": "3116547018251695091",
+            "amount": "3139468489943078260",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1544,7 +1544,7 @@
             }
         },
         "0x8f9f865Aafd6487C7aC45a22bbb9278f8fc06d47": {
-            "amount": "4552262197575450053072",
+            "amount": "4582795650799755445018",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1553,7 +1553,7 @@
             }
         },
         "0x8fe4e9F56152Cece6771Fd01A1ef596cAEC3EDBf": {
-            "amount": "214296170302892053018",
+            "amount": "215136987372473653288",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1562,7 +1562,7 @@
             }
         },
         "0x91B26b4B49525fDFfff2B099190149a52A36c3cA": {
-            "amount": "239775885275614692037",
+            "amount": "261506066902320289816",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1571,7 +1571,7 @@
             }
         },
         "0x929A5753C41eaed288F946bCBFe4a954Ad341797": {
-            "amount": "1357461334986297734252",
+            "amount": "1364286526950588955417",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1580,7 +1580,7 @@
             }
         },
         "0x948FED1E5ea61971C9CcfC05688d6d7b25458581": {
-            "amount": "97196722529737415743",
+            "amount": "97351659491383425846",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1589,7 +1589,7 @@
             }
         },
         "0x955A44E6baC7c2424Bb52b81870C01D28fCE0038": {
-            "amount": "344252830278123671609",
+            "amount": "353594333331714254346",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1598,7 +1598,7 @@
             }
         },
         "0x964Ca78fA3ab137e5BA050DD2C3531B629374A39": {
-            "amount": "319223675343997046334",
+            "amount": "325068651398042303416",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1607,7 +1607,7 @@
             }
         },
         "0x974Eaf2BF3514674E87b8664D7b53896704cc322": {
-            "amount": "28125289783345266612",
+            "amount": "30674201883464519020",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1616,7 +1616,7 @@
             }
         },
         "0x976DcA1615502419B7003A1853E022b023d47Cf4": {
-            "amount": "9845855057117232736",
+            "amount": "10738155875506221561",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1625,7 +1625,7 @@
             }
         },
         "0x999E3f0cB4D829B432BA63B0E50119bCFaf9e1b7": {
-            "amount": "1715430267728180051",
+            "amount": "1870894655828898742",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1634,7 +1634,7 @@
             }
         },
         "0x9A0fAD09FE4eFb7Bfa3387CF548B1c5d023Be8De": {
-            "amount": "291700686775449876",
+            "amount": "294668161542533016",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1643,7 +1643,7 @@
             }
         },
         "0x9A456152E0Da127C30a49357A461f4c3F80bd630": {
-            "amount": "850797027656891805132",
+            "amount": "927902254136169282843",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1652,7 +1652,7 @@
             }
         },
         "0x9aDe42F4Ac329Ea6C37313c00366e6CCcba7B5AE": {
-            "amount": "922355712759848636022",
+            "amount": "934452209988948676304",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1661,7 +1661,7 @@
             }
         },
         "0x9b560604691B60fB6dD7C4D3E585d588cA95dbF7": {
-            "amount": "11698781066706858422",
+            "amount": "11795803094353136002",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1670,7 +1670,7 @@
             }
         },
         "0x9c57027B1eca93093a6F446422C59C85A5A3Fa52": {
-            "amount": "77864081709445441303",
+            "amount": "78885252430908692488",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1679,7 +1679,7 @@
             }
         },
         "0x9d77056156459335001147c870D10748182c6A86": {
-            "amount": "1172636709930868918",
+            "amount": "1184565957976671287",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1688,7 +1688,7 @@
             }
         },
         "0x9DFd699CC5003acE9f332a9B1384a8d4A20c57dc": {
-            "amount": "1621975436030946463",
+            "amount": "1633904684594620685",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1697,7 +1697,7 @@
             }
         },
         "0x9FEfB01133F63D81b10BCa1Ee47BE40ef6535443": {
-            "amount": "81308291557128649",
+            "amount": "81906294953928658",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1706,7 +1706,7 @@
             }
         },
         "0xa056D660D21FF59a52e2d9Adf1eEfAFFAa875814": {
-            "amount": "1452515315848608774",
+            "amount": "1463198225010108076",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1715,7 +1715,7 @@
             }
         },
         "0xa0e328f9CABB36f9F45904AF9651Ed32314E9F2A": {
-            "amount": "2975347005109588763",
+            "amount": "3005615247733836787",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1724,7 +1724,7 @@
             }
         },
         "0xa1E91a4CF28f8C098C7bAb3093734Ad38B89f278": {
-            "amount": "693615380129340093355",
+            "amount": "702711996985206305705",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1733,7 +1733,7 @@
             }
         },
         "0xa30C7B2e676bE6b0C26D631c8161b62eBeBC3cD2": {
-            "amount": "80671090496253042437496",
+            "amount": "82860147990997243455566",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1742,7 +1742,7 @@
             }
         },
         "0xA657c9292208320cC27Ff2CEE72388E9d7AfAD4A": {
-            "amount": "2299068434622127003",
+            "amount": "2318135402364552014",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1751,7 +1751,7 @@
             }
         },
         "0xa6D1FEda6fc70680816eF6A23faf5e454e2f9C09": {
-            "amount": "1236464758219235397740",
+            "amount": "1245558666248517773943",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1760,7 +1760,7 @@
             }
         },
         "0xA742A54E0b9Cd1Cac03c8F569bA4C606694261f9": {
-            "amount": "5491900292166961421148",
+            "amount": "5640926237161647566842",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1769,7 +1769,7 @@
             }
         },
         "0xa8Ea1D3A26652996d1342880D1708C6742f33bCB": {
-            "amount": "2146883865238277924",
+            "amount": "2164688713840776761",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1778,7 +1778,7 @@
             }
         },
         "0xaB22FAE2875B5369D7e9C83338707721ADd8ed15": {
-            "amount": "699203753787753201",
+            "amount": "762570528751037790",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1787,7 +1787,7 @@
             }
         },
         "0xAc2e236d045AE9d80Cf42Df2BC7695F834d0e0Ff": {
-            "amount": "1644928167552245846",
+            "amount": "1657026228067969653",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1796,7 +1796,7 @@
             }
         },
         "0xac2E80F93d507ab5ef326B38B8C7363e02Bd2CFD": {
-            "amount": "3850449065435938401",
+            "amount": "3889619732361435844",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1805,7 +1805,7 @@
             }
         },
         "0xAC9283ebcd0c41FAA7A5399Ad94acc444954b446": {
-            "amount": "654876154772646394402",
+            "amount": "714225650114309210770",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1814,7 +1814,7 @@
             }
         },
         "0xad0fC6eC468B12a52B54f8C4DA32487Ee679B336": {
-            "amount": "155389668880608247",
+            "amount": "169472176484773336",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1823,7 +1823,7 @@
             }
         },
         "0xADa1c199aa6f0D4340a2d8225ECd0804aAAF4690": {
-            "amount": "1210429429873840644",
+            "amount": "1219331854175090062",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1832,7 +1832,7 @@
             }
         },
         "0xB0331b22161cA290A15f825A29C008dCB5e1ff68": {
-            "amount": "982181134267682526980",
+            "amount": "1000164841786691797140",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1841,7 +1841,7 @@
             }
         },
         "0xB26B5137BE5A7bB991Fa63A36a8EaA3daF394B7b": {
-            "amount": "1752871977985795289",
+            "amount": "1765763939886809478",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1850,7 +1850,7 @@
             }
         },
         "0xb3a7FBC2fa38C18ad4433aE93FE7F215Fd2D057f": {
-            "amount": "25343702103892957737",
+            "amount": "27640527112703481096",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1859,7 +1859,7 @@
             }
         },
         "0xB478d2e5D241683667e15c9c79a2Bc0e5aF35923": {
-            "amount": "2025772745599139465915",
+            "amount": "2046380957300189573839",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1868,7 +1868,7 @@
             }
         },
         "0xB4dC4C7460c58E7652Cd615675a1F707EbB67E9a": {
-            "amount": "1052860531254880862812",
+            "amount": "1061592266893715276253",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1877,7 +1877,7 @@
             }
         },
         "0xB6fcA91D1c166564cC9888F96b3B553f42C96349": {
-            "amount": "1475529923929871836273",
+            "amount": "1497730822729487175684",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1886,7 +1886,7 @@
             }
         },
         "0xb843De66d048E87d986C6dDA826a79e9a724D894": {
-            "amount": "2293134724988506591",
+            "amount": "2312152482429718557",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1895,7 +1895,7 @@
             }
         },
         "0xb8530006b544561E8Ae916bD34b06E6D7Ad0c001": {
-            "amount": "1936687087798145032",
+            "amount": "1950930966680144102",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1904,7 +1904,7 @@
             }
         },
         "0xb8767b8AC030cb2DDb7605F6E79f342f707F73E1": {
-            "amount": "56001668887767356853",
+            "amount": "61076935046960116408",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1913,7 +1913,7 @@
             }
         },
         "0xBA7e9Bb153F9c4C32903b721eB53B751E2c0bF12": {
-            "amount": "85526996428091970522",
+            "amount": "93278055982028070205",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1922,7 +1922,7 @@
             }
         },
         "0xbF0CC2fF9bde3Fd8bac3E1BfE00C64e6B4578169": {
-            "amount": "834955677041042459",
+            "amount": "850243690792638442",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1931,7 +1931,7 @@
             }
         },
         "0xC07EF9FDa2d42a7757172f6A7CDa2a63599591ED": {
-            "amount": "22920665417042614677",
+            "amount": "24997897754000812423",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1940,7 +1940,7 @@
             }
         },
         "0xc330Feb66993346B932d397e085B6FC4234f97d9": {
-            "amount": "221003068779873703",
+            "amount": "222835923478735842",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1949,7 +1949,7 @@
             }
         },
         "0xc4d6fdEA25346267441622FeB0e2618544Cef228": {
-            "amount": "370193773407933264925",
+            "amount": "403743343766033005598",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1958,7 +1958,7 @@
             }
         },
         "0xC9C03900134fa324422519852094792298c71825": {
-            "amount": "26166782143470206776",
+            "amount": "28538200469839627432",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1967,7 +1967,7 @@
             }
         },
         "0xCA2fcDEFC09c1EaB0b91b66EbD3eB8401852fE5D": {
-            "amount": "380117976217037901191",
+            "amount": "380723905334494299126",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1976,7 +1976,7 @@
             }
         },
         "0xCaB5541bad35e9ee799BeA9765C3c416D8Cc1Bb8": {
-            "amount": "429723688043406550045",
+            "amount": "434178015346298048360",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1985,7 +1985,7 @@
             }
         },
         "0xCC7CC2e94273e694998ba0B3C80306cf031aedB7": {
-            "amount": "2034045850614599075",
+            "amount": "2089240881282345472",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -1994,7 +1994,7 @@
             }
         },
         "0xcFF03aB20709c928d7478764473e386F7b23EDD1": {
-            "amount": "600085865961664684273",
+            "amount": "605062585086972847158",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2003,7 +2003,7 @@
             }
         },
         "0xcfF7303b8E08403438c751bF21c04771252fA413": {
-            "amount": "1270638591644199482002",
+            "amount": "1288113727246797228277",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2012,7 +2012,7 @@
             }
         },
         "0xd0d51Df159971CEEF5B77067237d25B8C8ec4B21": {
-            "amount": "38784811865322818593",
+            "amount": "42299765027615592293",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2021,7 +2021,7 @@
             }
         },
         "0xD24FF5e32DE12be154B1C2eE7B731CBC45540E50": {
-            "amount": "118253987041643347856",
+            "amount": "128970997276193142760",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2030,7 +2030,7 @@
             }
         },
         "0xD2602C7bDFC9F413974e944280BbFae275d1B1b6": {
-            "amount": "24900922931132479931",
+            "amount": "25084063373651923283",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2039,7 +2039,7 @@
             }
         },
         "0xd27d90b337717Fd91C4D409F712B890D4eE2FdD6": {
-            "amount": "681994151631993984351",
+            "amount": "743801271085559037222",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2048,7 +2048,7 @@
             }
         },
         "0xd2B0C055774F1057d1dCd8f3c26c83300Dc81F3c": {
-            "amount": "1751208647004225138",
+            "amount": "1764088375496346671",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2057,7 +2057,7 @@
             }
         },
         "0xd384Cc029B537503895fE252f94FBA87A05D677E": {
-            "amount": "28788432459067051250",
+            "amount": "31397443224952003314",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2066,7 +2066,7 @@
             }
         },
         "0xd39ce81CE8e7243494d4149d05dDDD536ddc2e55": {
-            "amount": "1255905783467040033985",
+            "amount": "1272376718291374214064",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2075,7 +2075,7 @@
             }
         },
         "0xd3C808920D8fCcBeBd181Aae8D4FB2ACd1A433cD": {
-            "amount": "1927858692755692775922",
+            "amount": "2102574842780746752450",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2084,7 +2084,7 @@
             }
         },
         "0xD506Fb416B0ad8DBf7859B9B38c435405E3d1110": {
-            "amount": "9683435438990725173",
+            "amount": "9754654833400720524",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2093,7 +2093,7 @@
             }
         },
         "0xD5a7412e7f78E03E6Fb2bd133F6473bfe8a45eB8": {
-            "amount": "660645894900557969740",
+            "amount": "720518284780903409270",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2102,7 +2102,7 @@
             }
         },
         "0xD68965a3Bc263c3a2d43c713cd971aE16c31CB18": {
-            "amount": "968343543899072515",
+            "amount": "975465483340072050",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2111,7 +2111,7 @@
             }
         },
         "0xD6ccB9d49A2ecd78efC35D6C733214029a1C74cB": {
-            "amount": "648590939512338272941",
+            "amount": "660588613952077443694",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2120,7 +2120,7 @@
             }
         },
         "0xd6FC385c310b69C80dD1c553f935cE060f9B05B9": {
-            "amount": "1745051498857754346",
+            "amount": "1757885942970685556",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2129,7 +2129,7 @@
             }
         },
         "0xd71F12fb050751eA24898455d447e51AeE489bCe": {
-            "amount": "2501296590236111200",
+            "amount": "2519693039463119131",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2138,7 +2138,7 @@
             }
         },
         "0xD781F65cD90eE9418C70d1D244192C349Bf1176c": {
-            "amount": "65487615477264613363",
+            "amount": "71422565011430892637",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2147,7 +2147,7 @@
             }
         },
         "0xd7dEdcf8fFDDCEeD9aD20A41A5F88DC1268B3ad4": {
-            "amount": "2178031026472731570904",
+            "amount": "2217910710149019784964",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2156,7 +2156,7 @@
             }
         },
         "0xD84409d9593413Ca38A3B2b9A2Ba776E7C1EBCa1": {
-            "amount": "27299612532472343089",
+            "amount": "29773695937429512357",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2165,7 +2165,7 @@
             }
         },
         "0xd9390b46a1749DEe5325A490490491db9a826D1F": {
-            "amount": "4994257915459983036",
+            "amount": "5085702630179631794",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2174,7 +2174,7 @@
             }
         },
         "0xD9A0013af48591f8524280D6f8f98189cef45308": {
-            "amount": "4517374881089816001457",
+            "amount": "4639956505798089453349",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2183,7 +2183,7 @@
             }
         },
         "0xDa9BfAA363DfCFa220516c6D0dE653389e8De01C": {
-            "amount": "16542535541609155504",
+            "amount": "16664202007059564230",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2192,7 +2192,7 @@
             }
         },
         "0xDB1f91772C19e39a3e084800F0cBAC2D67B5Ea4C": {
-            "amount": "810343954260720618",
+            "amount": "825181328096136316",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2201,7 +2201,7 @@
             }
         },
         "0xDb8D484c46cE6B0bd00f38a51b299EB129928AC0": {
-            "amount": "23824003950103232790",
+            "amount": "25983103195283853772",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2210,7 +2210,7 @@
             }
         },
         "0xdC6b5549763D893b01A41aCF0D7d77CCb44f3417": {
-            "amount": "3712634529401413809046",
+            "amount": "4049099652008454357186",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2219,7 +2219,7 @@
             }
         },
         "0xdC6CE98A9020905973C9C026c6f3e34df9998D8A": {
-            "amount": "357475559916646712325",
+            "amount": "389872516079139597484",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2228,7 +2228,7 @@
             }
         },
         "0xdD62107B880489C9183b01Bc231De0631fD050C8": {
-            "amount": "242892838928017353",
+            "amount": "244679258737801403",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2237,7 +2237,7 @@
             }
         },
         "0xDe255AEefD61d58Eb2eE99C8Fd08c4c46213a734": {
-            "amount": "1250808395059193236",
+            "amount": "1260007797170179860",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2246,7 +2246,7 @@
             }
         },
         "0xDE2cA70e71829962A99A2552D826ac37e51882E7": {
-            "amount": "1750204120652699272",
+            "amount": "1768008969255198109",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2255,7 +2255,7 @@
             }
         },
         "0xdeEa4b6448fDdb2a8223a4af773378e047BA253D": {
-            "amount": "554345609951895383634",
+            "amount": "564495661674538927730",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2264,7 +2264,7 @@
             }
         },
         "0xdfBaeeF21396BF205D4B7D23345155489072Cf9B": {
-            "amount": "2098077678447990450",
+            "amount": "2113508547236822776",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2273,7 +2273,7 @@
             }
         },
         "0xe0260a8dF025590E1982b5B284b7B1786916C04D": {
-            "amount": "403476476624613545",
+            "amount": "406443951391696685",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2282,7 +2282,7 @@
             }
         },
         "0xE26EDCA05417A65819295c49fC67272Ab247D791": {
-            "amount": "1154534438420052380320",
+            "amount": "1185863409552295735984",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2291,7 +2291,7 @@
             }
         },
         "0xE5A3D77D7788A83f3549dD7F08Fc2aCed7E262d2": {
-            "amount": "1204456486918582059682",
+            "amount": "1313612827607802962068",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2300,7 +2300,7 @@
             }
         },
         "0xe5cD86ff7f825a0ff6f699828D5c9bf163C0e3F9": {
-            "amount": "77828447079554398820",
+            "amount": "84881809801244078091",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2309,7 +2309,7 @@
             }
         },
         "0xE70CfdB698Dde588c398Afc0563EbF5616aD33B2": {
-            "amount": "235156395903135298312",
+            "amount": "237601979692019962565",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2318,7 +2318,7 @@
             }
         },
         "0xe76d0d3c7aF5fa2C0806F221cBA88d7E044178AA": {
-            "amount": "6798996457128678184",
+            "amount": "6855382880506389142",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2327,7 +2327,7 @@
             }
         },
         "0xE7bFe9b78d32469796dEB029b2bea3d68773aec4": {
-            "amount": "5834014796118779216",
+            "amount": "5893364302250038700",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2336,7 +2336,7 @@
             }
         },
         "0xEa9f2E31Ad16636f4e1AF0012dB569900401248a": {
-            "amount": "236898020156619044626682",
+            "amount": "238311384048296272498002",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2345,7 +2345,7 @@
             }
         },
         "0xeb4135a5fff5cD44c08614f012e103a6429f65B3": {
-            "amount": "110913795475549459110",
+            "amount": "120965585787242172600",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2354,7 +2354,7 @@
             }
         },
         "0xeC5c16f3EAF86a801a3E89201DD39bDDD1786cBF": {
-            "amount": "3041933280904726966",
+            "amount": "3317614726578041107",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2363,7 +2363,7 @@
             }
         },
         "0xEC6Ba66a6D19fC4B6e123fBDBa59e310d6D767E0": {
-            "amount": "14780815705050144819",
+            "amount": "14889525134676820522",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2372,7 +2372,7 @@
             }
         },
         "0xEd53426f3F4745C5db55a2E69695d6c6493C9eD0": {
-            "amount": "678808233173166715",
+            "amount": "687710657474416133",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2381,7 +2381,7 @@
             }
         },
         "0xEDDb8B0C46193cAEa0c2b453fb1e256AB68826Df": {
-            "amount": "10236497480111312776",
+            "amount": "10284511071741128861",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2390,7 +2390,7 @@
             }
         },
         "0xedf4FA418216A13E7629fED73e7448985CC8Bc82": {
-            "amount": "59856172197324072663",
+            "amount": "65280760628442246713",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2399,7 +2399,7 @@
             }
         },
         "0xEed8e6512ff83092ffe544bD308e94934A113Ea0": {
-            "amount": "284511440780004772712",
+            "amount": "310295873922306088213",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2408,7 +2408,7 @@
             }
         },
         "0xefE7a2bbe01adc090AB28eD422a359b553aAbC16": {
-            "amount": "116895501712174679252",
+            "amount": "127489396426109727111",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2417,7 +2417,7 @@
             }
         },
         "0xf06e77fd9289763C1EfdA7B6901f388F47656102": {
-            "amount": "10803518050847904759",
+            "amount": "10913422376291942574",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2426,7 +2426,7 @@
             }
         },
         "0xf08d3B4048f472db9AFCa622fea6C54Cc1fe141C": {
-            "amount": "88751069243201703355",
+            "amount": "89597046599716637242",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2435,7 +2435,7 @@
             }
         },
         "0xF3DD72AC3c9833574491861793e8fFe1f07c8905": {
-            "amount": "449179400028189594380",
+            "amount": "489887204878404370130",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2444,7 +2444,7 @@
             }
         },
         "0xf664ec073b41FD45ba6b6E9B8a83879214b2cE50": {
-            "amount": "21562531344542864697",
+            "amount": "21682132728126703776",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2453,7 +2453,7 @@
             }
         },
         "0xf84C58DC674b8F29F3d5b56f561817E3920F9a63": {
-            "amount": "1229992927560234238",
+            "amount": "1252514061685036817",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2462,7 +2462,7 @@
             }
         },
         "0xF8C84C6A4f1083f7a7Fd94885B303A3974116D82": {
-            "amount": "1964628464317938400919",
+            "amount": "2142676950342926779125",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2471,7 +2471,7 @@
             }
         },
         "0xfaFB1fCf2252A1836cB09cd5027aBd42aFfccAF4": {
-            "amount": "2497235643200724852",
+            "amount": "2515602225115618868",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2480,7 +2480,7 @@
             }
         },
         "0xfB8aA192dA69DD3DE22a9354EA99538315446c0D": {
-            "amount": "763694455509899982177",
+            "amount": "774201112472996031231",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2489,7 +2489,7 @@
             }
         },
         "0xFB9e5F5874565A6eF8FCF1DEbc4975501331a8Ca": {
-            "amount": "505318400521383115625",
+            "amount": "551113917489338848265",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2498,7 +2498,7 @@
             }
         },
         "0xFbEA6F2B10e8Ee770F37Fff9B8C9E10d9B65741D": {
-            "amount": "3251614373386444010166",
+            "amount": "3546298598334564372644",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2507,7 +2507,7 @@
             }
         },
         "0xFd28D67eD154B734257276e5d090721434bd51A4": {
-            "amount": "145253357462847253883",
+            "amount": "145714900683270762982",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2516,7 +2516,7 @@
             }
         },
         "0xfF6139236404725d723E47Ee0068A8572a2f2f71": {
-            "amount": "1286623675608749646",
+            "amount": "1296086490700329174",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
@@ -2525,7 +2525,7 @@
             }
         },
         "0xffAd4836B73A1CE5D86230e98Cb3E52cde35379e": {
-            "amount": "1952826146863129574",
+            "amount": "1967188724735811970",
             "metaData": {
                 "reason": [
                     "Distribution for epoch 19"
