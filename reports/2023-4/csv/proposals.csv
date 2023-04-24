@@ -1,0 +1,3 @@
+id,title,author,created,start,end,choices
+0xc7c50f5c7ecc23f49dd5687fad5cad2b0614416ad1ff75457a682dfee15f90d2,PIP-67 - Auxo Migration Gate-2,0xd18a54f89603Fe4301b29EF6a8ab11b9Ba24f139,1681230992,1681234500,1681839300,"['For', 'Against']"
+0xbc1b592059c3569123f2c6d218d9d166ea6c912db66bc51cf8f237b89b45dbb3,[Epoch-18] MerkleTree Notarization,0x0810C422E4abD05c752618B403d26cf60bB50B5C,1680691058,1680691036,1680950236,"['Valid', 'Invalid', 'Valid, against WETH']"
