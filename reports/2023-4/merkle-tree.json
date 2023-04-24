@@ -1,7 +1,7 @@
 {
   "chainId": 1,
   "rewardToken": "0x1083D743A1E53805a95249fEf7310D75029f7Cd6",
-  "windowIndex": 19,
+  "windowIndex": 20,
   "totalRewardsDistributed": "623572861202882950629429",
   "merkleRoot": "0x417aeee5f17a112ee60aedcdc5baf83b66f60ffaa7b3e6066957148cfda757fe",
   "claims": {
@@ -9,7 +9,7 @@
       "accountIndex": 0,
       "amount": "3022001318079410842",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe2e33acabd5d5d136f9ec352cf5eaa7f23954992f9f3ad30c293d31000f103b7",
         "0x8c81f03a38eecb4d88a3ddc16dcbec7c349756bc6d8659a6f51034db3894e1a1",
@@ -26,7 +26,7 @@
       "accountIndex": 1,
       "amount": "1761030218001448143",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3896456d363cf9b0b8dfb5fdeaa3ada877d4d374db032a0bfd5c01d15b0ea705",
         "0xc81ef813c59e88fb825f9312f102fc9ce4dc9818b1d0b14fe4c6a46d4dae8bbd",
@@ -43,7 +43,7 @@
       "accountIndex": 2,
       "amount": "4653449007141445073370",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x9beb5a215655e8e0f37dc87e9b13f99a132183c401e84e47b2f8d7dfb61d5328",
         "0xdfd780a9dcab2e6882a171115fc5a3f8ab218b5147539eed98e6529348ffeb9f",
@@ -60,7 +60,7 @@
       "accountIndex": 3,
       "amount": "2110871381587264283156",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc520778587a45b9bc60dab03e33b7b476548e07f3f6d66799cce5eb826a93333",
         "0x24d5d38c147888a097f34d359d8cfc5c8038860638fcba749aefe1a87dad3283",
@@ -77,7 +77,7 @@
       "accountIndex": 4,
       "amount": "92480767722837385274",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8db22ef87962b7d4682934a6a341599a332a2ba8bc37d9b0afa55e6e55551619",
         "0x9ed0522622025ecab3f48a68d257b39957d58a76ebd83be90be9d02b82a36766",
@@ -94,7 +94,7 @@
       "accountIndex": 5,
       "amount": "694577440428859121688",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfa8de079c373a7213a408db781b3ba5e0c8d171cf88f0008c244a5443c35ea2c",
         "0x4a79411c2588022c8c2e749369b476abff5b79187fb7121cc2dd5cc96e8055a8",
@@ -108,7 +108,7 @@
       "accountIndex": 6,
       "amount": "119925022514308149973",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xda1b184f049edd7a4dd8dcc0a3441c4f375beeadfdb03e05346cdced48e2f9fa",
         "0x388a782ba2e81699e40eb2d27198d69142545104518ef1e79196a36257dc17bc",
@@ -125,7 +125,7 @@
       "accountIndex": 7,
       "amount": "21775091269623100003",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6d81150ca0e8fa7c0e20a5f9685436bced9a1c9c47e5ab966930c7938ec801b2",
         "0x78e5fe3afb7b8c01bd10833d7217665c42c5990f5ecb407b9d923283eabd2bb3",
@@ -142,7 +142,7 @@
       "accountIndex": 8,
       "amount": "636086514813154162023",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe10d3bea24751b710db69a729ac2e8f4e5d3ecbd3c1bfbc81fe01c48394a0a87",
         "0x96a03150082b4a6829a04eb8c86b92a4f5db5a82cafd39ad5a0805d95cbd39d8",
@@ -159,7 +159,7 @@
       "accountIndex": 9,
       "amount": "573119379452305117",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa61b646a430e72a1b5f87a520371c071a52653ad0b917ecdc4a28b9228c926ff",
         "0xb8276347f35dda6f2ed8236e85b54e3a2d6ba00b45a0930c26d9bb848fa9f4ec",
@@ -176,7 +176,7 @@
       "accountIndex": 10,
       "amount": "2206529827055003",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x9135c93f3681b61f06e4030a853819e6ff6cc8a2fb28f76ea053f388ddb887cc",
         "0x27039273a1df5cd02fb8cccca2168bd7dcccec04e63df40cf20a6802c2e4d87e",
@@ -193,7 +193,7 @@
       "accountIndex": 11,
       "amount": "1378449000231624359",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd6b136366a5cf6265f8a3c5c51b56ffae270adc0c02c8607b46dff0240b250d6",
         "0xf35c2db18c547f362ad651ffd2348c5b5f82ad9403bae3dbe03c6cc752c354ac",
@@ -210,7 +210,7 @@
       "accountIndex": 12,
       "amount": "1317159895639819550364",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5dc2543c7ebdf150bd8017024f0897f8afda0b356d3d13db997503f4c6e3a29d",
         "0x6e243d22ed72a190a5f0c728ecd4aa9da3684656d162febb98a800b116656597",
@@ -227,7 +227,7 @@
       "accountIndex": 13,
       "amount": "17646153332915684898",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x967a5706cdfadef9ffbf5702d4123745e84ec59c177b500833c2292b98f085e7",
         "0xfb738adcf6791f6c93ad5ee68dca2dfdc3dac5f47320185d1fe4a53fb0a8c817",
@@ -244,7 +244,7 @@
       "accountIndex": 14,
       "amount": "2510980364751693250",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc774430aa5f87d645760cbc5ac5a0dd88b51f98ffe604056f45916d69c53f3d5",
         "0x45d55951d2c3e20197787cbf1a96fefa19c7ee9e8fe73904ca8756e32dc8ecff",
@@ -261,7 +261,7 @@
       "accountIndex": 15,
       "amount": "4584734346294557376",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6647975771640a38f457284445b16ed5e3f7a319bb59d551fbbbcee20d6702e4",
         "0x72575d21f35ffa6bd643d717e050cedf6c272b87ddbfe32eca4c11cb176fa3b2",
@@ -278,7 +278,7 @@
       "accountIndex": 16,
       "amount": "90374680199616336785",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x69cebada87e0faef4c27b917ad3e72313d2858ab3d8acd93272218dd45c95571",
         "0x7acd82854df65a7271dbdfe11f651e8e32d545f0a678d47b83b23be74b45c003",
@@ -295,7 +295,7 @@
       "accountIndex": 17,
       "amount": "15724822000366206881",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xbcfc5c31b3a17a142d1a9d201d398cb411b5e7f2b30bb824f4af517205c2ac4c",
         "0xbd626679a2ea3d38ff704bc27a5433e47c7745d9a5cd76b3e81b638ea886e6bf",
@@ -312,7 +312,7 @@
       "accountIndex": 18,
       "amount": "290751513757537393234",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x693fa82635cd974431804eaac4b71ecf410bf6835b33da539ed7cafeb6734435",
         "0x33e6836f3db3e4b069ee8d4066781718bc6c2f393370e07542c2ea480f775576",
@@ -329,7 +329,7 @@
       "accountIndex": 19,
       "amount": "168571515532619789853",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x736253eef2b21c94e93374b174e20f9b39d5c2ae3d6e314ee004429a830416ed",
         "0x0203873abc76f3fb03e4afb95c5e3d6762f25fb287194a563b5f3b93aa4ef41b",
@@ -346,7 +346,7 @@
       "accountIndex": 20,
       "amount": "18567362673178602724535",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2f32bec9531fd9fddc3da83ce792b44f3f337be1a76070279984d4a58d29316f",
         "0xbe6ee58762962948d6491a6bb3984b7511860946cca060980e694b9c0f451138",
@@ -363,7 +363,7 @@
       "accountIndex": 21,
       "amount": "251137639529933083",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8d20f610f9e9176d110dc53c6d5f31442b039598d4fd82336e7a43ad8bb911ff",
         "0x186ca5add2db405d07217b342dfcf128df062ee0bab694ec5a8a06a27337ec94",
@@ -380,7 +380,7 @@
       "accountIndex": 22,
       "amount": "1872995012439831807486",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa96315b766d2d4dc20c493c57bdd8ae7cfbee1b0042ffc443a63d5d581d2082b",
         "0xd52cdaf436bb73e0d3f0ec29205e82c88998b4845ee39ac9fac580b7e61d0e8a",
@@ -397,7 +397,7 @@
       "accountIndex": 23,
       "amount": "29498596565497552819",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3c3ff8a39a8547e64c4d55f532c6d28357011c3a90962c47fb95509789e60603",
         "0x9b9a3af28d5797c1e98799cc7674b774e60e0523d0059c11e6705b447ef7df63",
@@ -414,7 +414,7 @@
       "accountIndex": 24,
       "amount": "5316317625912265237834",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x36d32beae6662b75581adf2473dd6b5c23f2e2dbe88132ff710d72bc40254532",
         "0x52c3fd9e822f46bdfb5ec857a08219ad5570e6adefca75a880ac5853cc4df463",
@@ -431,7 +431,7 @@
       "accountIndex": 25,
       "amount": "281778214678144267921",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8b37c79e1afaf3f0067e7a2e6e797101caeacac4c936ead16f6971ea6d154921",
         "0xfa9908c4dbf70eb818addca4ada6e729f07d8bbb7ce56968082a7ce58e60e425",
@@ -448,7 +448,7 @@
       "accountIndex": 26,
       "amount": "367397868007993808715",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xdd719f9aa770a9426ae6ff2cb28bed1749ae3674e4de2e68a7f5a7485d398d7f",
         "0x909d609e17d39785cdfd19660d62771880ac733e18af8375d4c36889a96cf946",
@@ -465,7 +465,7 @@
       "accountIndex": 27,
       "amount": "771188020202716001729",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7dadccdad2e3a8c20133c8310112ad95ec1d2cb37559a9dd9e2ef2ab0f13efc4",
         "0x6665a097b8d787d91dca0baaedb4b1bf518c8ad7527a84ed0f9daee17748f3cf",
@@ -482,7 +482,7 @@
       "accountIndex": 28,
       "amount": "384748665978467311936",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xde572afc3334e379dd8740264ff46838d22b6bf17cf5c6a24a648eb2693140c4",
         "0x9afb7d03070fdf7ecd5d45edd8c1a7f3509c754283580502ac93930b5ff09fda",
@@ -499,7 +499,7 @@
       "accountIndex": 29,
       "amount": "14825340322235711719",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x689feb5266c8533e6526063b89cf9d99499eb915f207ec32840998d6f7d682c8",
         "0x5c3d6c4209463658a700484eb1ec39398be7fa4a9ecd7783394bf0218e8caba2",
@@ -516,7 +516,7 @@
       "accountIndex": 30,
       "amount": "712104203779381157973",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xeffb63ead1aa45abdb3fd01c431e17dd1e387d3ecee635189c7084adba548c8d",
         "0xc361f384a121455033da5c7101b0a02061f5977a7a8cfa5dc14fc9155aeb29ef",
@@ -530,7 +530,7 @@
       "accountIndex": 31,
       "amount": "16027225221358130890155",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x82bd4f22363ca9fc42db20d91b5c53dead6ec666d91cf82308e7f29d50fefea3",
         "0x444ef317a86683d87101300bcba9043163313cf5879b3363161d82e72798c675",
@@ -547,7 +547,7 @@
       "accountIndex": 32,
       "amount": "4152057734970812568",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6d8bd0156f40d83b5b85096b8995a1ed5e149346789ea3a32903fe540cb98222",
         "0x6941106c36dbb4b8a2407b8f48480957b8df51c4c235ebdb45eaf2b0d1e466cc",
@@ -564,7 +564,7 @@
       "accountIndex": 33,
       "amount": "133736196632403678790",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3020815c3ba4a283ca5e5bd407667d6a028140af42745212a86a3eed1db05815",
         "0xc6319586d81b9d64e63ea9901cbbf8c32d77f04449711d9a77eb02a1c1940277",
@@ -581,7 +581,7 @@
       "accountIndex": 34,
       "amount": "283758087370868588685",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7d8eb2c4892459bb6645eb2645a2c888c5a0520f2bc41de30482b66958dd3df0",
         "0x30d928b177420a108e81b0f19a1389722d7288f28d9920aab6a9fa80629d590b",
@@ -598,7 +598,7 @@
       "accountIndex": 35,
       "amount": "129834376309278563525",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8454f36fa5631860676fffbef4cfeca8e63c3a301207e60482821ed0892a2ffb",
         "0x2ef59a1e0062dffbea9053ff803e32da3d475f015ebe8b4f2fa6984d4f13b32b",
@@ -615,7 +615,7 @@
       "accountIndex": 36,
       "amount": "3888836797097383986506",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xebe936817b91faea2563e91624af2b885fd723650c3263baa729afab5ae8179e",
         "0x28a15a62d517f5fa718419b93ded64728455d1c0a9a57c09155b75562f4c2b7d",
@@ -629,7 +629,7 @@
       "accountIndex": 37,
       "amount": "1757795344398133013",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x62e364680af6469277a400132775e9dafbf728ccf2053fb40dc60fbe6abc5b6f",
         "0x4b7861256cce3e236b8b597f7c67fa5ba95531f00f45a772e96484b4c234c7c4",
@@ -646,7 +646,7 @@
       "accountIndex": 38,
       "amount": "22091468597552925990",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7cf2de9b99e29e0e68d1b42aafb164517f532a0f731dccc2a79fa6f40a7ca2d9",
         "0x21f01e8ab198e10d21375fe0f72d8ebb68c15ea46c116d9efa78f7e6c1020db6",
@@ -663,7 +663,7 @@
       "accountIndex": 39,
       "amount": "714222279912758735463",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3119ea544062223e0d65e367abc81c99e18aa5567eb520a802d98f030f165436",
         "0xbfc45b8422162330dc91bf794acadda28953c6c9e4ab8203cf92250697ee5a2e",
@@ -680,7 +680,7 @@
       "accountIndex": 40,
       "amount": "2827306603835544501",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc86fd4ca5d57dbfe8bca301a73bf73fa47c1e78c46798e153488d75c6786c864",
         "0x8de67ab739661221775582d46a4f20852f0ec375f9636e11b92c11f1fe1940aa",
@@ -697,7 +697,7 @@
       "accountIndex": 41,
       "amount": "152549640455767732920",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xf6668716469aa9cbfc00c7ba740879e4b23040ca268cf2adf762d01a2420bb4d",
         "0x6bb51620782e173859aef85c18e7f0214316e345697081de58153d75509504f5",
@@ -711,7 +711,7 @@
       "accountIndex": 42,
       "amount": "2238662445767437196",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd1654dd7003f306db0a32ae37eba837e4128d2fc6fcbbbb1756db65e9bf8a227",
         "0x38af3612a2d1e56bab25273ce128c76bb4a23be7b1c2f83b416fde9aa72dc63b",
@@ -728,7 +728,7 @@
       "accountIndex": 43,
       "amount": "243064229767228020257",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8764cc42153241fb7825a3958ae3fedb8fa4287035ad42f7cd6eb1a50f53addf",
         "0x57bc49222bb19e7795919644c82e60c8282be8e4a6233395101d2548fa36d60c",
@@ -745,7 +745,7 @@
       "accountIndex": 44,
       "amount": "488925041228640202131",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe52410874ae9d6a8e014c78d4ce45c20a73fec274f2dc2a4a7c6ab312bed16bb",
         "0xbebaa8837682b247ca04478bb07595da2d31398ce15ecce9aa27b6f8795e28a0",
@@ -759,7 +759,7 @@
       "accountIndex": 45,
       "amount": "2498259198948112832171",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xbbffa14083bd9c0c58d7c1c07b037ba27d2a3bfafea94cc1e0577632b03ecee2",
         "0xfcad56fff1ae6c46d4e49733363ed0d146bf185e81427c12d19271eb529ac29d",
@@ -776,7 +776,7 @@
       "accountIndex": 46,
       "amount": "774668522306281084850",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8d547ad3ff38fc9fb88f0834eb720ce1b2032870c5ec1e4ad929c1b083b11655",
         "0x186ca5add2db405d07217b342dfcf128df062ee0bab694ec5a8a06a27337ec94",
@@ -793,7 +793,7 @@
       "accountIndex": 47,
       "amount": "224262753207580709874",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xf99ae1e80db26e80b8b08cab32ae5bd00e8b3a9ceb7df17e2e6c4737ac0fd0f7",
         "0x6bb51620782e173859aef85c18e7f0214316e345697081de58153d75509504f5",
@@ -807,7 +807,7 @@
       "accountIndex": 48,
       "amount": "1261619564206080363",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb6e384c51b919412a5a069d97ed2ce5c4f05282649d014573cb473d0fd636d49",
         "0xc40731698695a29ae250482b89cfe0c46cae6a0bb1e65da6f6e9395e171b37b5",
@@ -824,7 +824,7 @@
       "accountIndex": 49,
       "amount": "721562567593437233",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7ed869b80d4550ac729bc4b8fcae69e2d8686c5dedebbef6470f65d87eac12b1",
         "0x75ea8068abbb7cafa7b486ce73a131a989624e8b8b704b99746e7b8891f71f30",
@@ -841,7 +841,7 @@
       "accountIndex": 50,
       "amount": "88020508215330589952",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xad18bdebedc08fd083895065a7fccfeea6cf1ae3272a71196b0666bc304c1dbc",
         "0xec274836db68e86bbce5da9feda16ecbcf7b014c080e01fe90b68c4fb3de3b6c",
@@ -858,7 +858,7 @@
       "accountIndex": 51,
       "amount": "7923888608988042560",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3217d22a272b92281869260afe9681d01a55f48d48336fee0323b53df352eb1d",
         "0xbfc45b8422162330dc91bf794acadda28953c6c9e4ab8203cf92250697ee5a2e",
@@ -875,7 +875,7 @@
       "accountIndex": 52,
       "amount": "914025990049967707",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x41b92dafca9570ae4c2fe33146bb4f4c153c9f1bb92e5d2994a0b93e9ec7936e",
         "0xb56eb55c8c8e5cc1da3d5ca525a179c73fb2afe0ca55f9e3153a1fdf3ccf961a",
@@ -892,7 +892,7 @@
       "accountIndex": 53,
       "amount": "1813458535748797623527",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3c4cb158bb2071a9d58c3bac1e1124c912ff6614afb17e59154ab047e69a3772",
         "0x9b9a3af28d5797c1e98799cc7674b774e60e0523d0059c11e6705b447ef7df63",
@@ -909,7 +909,7 @@
       "accountIndex": 54,
       "amount": "7226755827275470715",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3f157f4ea99f8e0241753774859f9041fd435ed6f42bfd88f3e32495f71147ce",
         "0xdd8a7348d6bd9e0d2318165d01187c16bdae40d12e0efb90fb16d574a8fc73b3",
@@ -926,7 +926,7 @@
       "accountIndex": 55,
       "amount": "134992993928844479351",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3008e0826725fafe5dcb0bb6d286f3fb8805c16910f775f3d0ce9a1e240159c7",
         "0xc6319586d81b9d64e63ea9901cbbf8c32d77f04449711d9a77eb02a1c1940277",
@@ -943,7 +943,7 @@
       "accountIndex": 56,
       "amount": "4032453563000976724",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xf634dae490036008148c5349e074c423242007b45c8a5db6122c791332ccdd29",
         "0x69a3ff1b637fe552a88093689ed946e8014fd46be95022162bd17b52db9b032f",
@@ -957,7 +957,7 @@
       "accountIndex": 57,
       "amount": "743255175608623741624",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8046a8120a21d3e6cdf3613d8961e3c6ca08a50bf8f99d8b18c946b8ed579802",
         "0xd2b63f36e8a61d07748e4b610b45fdbff2476126bc29fa9e548f73dc04499a5a",
@@ -974,7 +974,7 @@
       "accountIndex": 58,
       "amount": "156258825880616689946",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x698d4e04bccd1392f48b0e63b105207907b53b7da50cb5a9ec2df5003545823a",
         "0x33e6836f3db3e4b069ee8d4066781718bc6c2f393370e07542c2ea480f775576",
@@ -991,7 +991,7 @@
       "accountIndex": 59,
       "amount": "13766098427065906032",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd754b244608963c88998fcdfce228ab43b2ffdffe21efbbc3403a75ab64b7c0a",
         "0x388a782ba2e81699e40eb2d27198d69142545104518ef1e79196a36257dc17bc",
@@ -1008,7 +1008,7 @@
       "accountIndex": 60,
       "amount": "2140367887622394403422",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7ae34ffab5dff8bccb8a036de4412187d93f29f8d9ac1e45ffae224536ed0463",
         "0x21f01e8ab198e10d21375fe0f72d8ebb68c15ea46c116d9efa78f7e6c1020db6",
@@ -1025,7 +1025,7 @@
       "accountIndex": 61,
       "amount": "296146874236786298387",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfcbd5a66371c06dd3f4f9d49bc727dbe0630e69a61e872b046c03ea11f195b18",
         "0x3e5590bf0c44059fea59a09ed0149a8c581ba332a83837782fb8f73a5c37a74e",
@@ -1039,7 +1039,7 @@
       "accountIndex": 62,
       "amount": "1257933887262149841",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x9e5952a6aaa9a0cd7c15b2f8b87a4b20f5a326db762035dfc4ee654caae48c8a",
         "0x562791634cc1b11465471b5268d26176f91d61e73b95c4c4f23469d552cf9a18",
@@ -1056,7 +1056,7 @@
       "accountIndex": 63,
       "amount": "100898018294360611",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xea9adc43f57ecd61d79cedca5581b06c68d335e5ee7ed9c4b86721087e173d0e",
         "0x2b1b6784997a75c8a354da1aa7ea6a47f0ead1a2489aa5c738ec8e01b7c765db",
@@ -1070,7 +1070,7 @@
       "accountIndex": 64,
       "amount": "1443125135186874470",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x68650273d9c06ea3a6d2b138323424befe5b27baeeb72ac3324790f5e26fd37f",
         "0x422863b2f4cb9fc118c1d30eae5b39b7a5bda551e2a7482ff4682aba3931209e",
@@ -1087,7 +1087,7 @@
       "accountIndex": 65,
       "amount": "2549702340422754818",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe786760902213b57c14bb4e9f9374d16d1e4b656b4d6cd2920e90c0bf7c885e1",
         "0xde391b748dfd1dee0fb6a7dfc29f4f7ae9da3168da948b10367d075b3503387d",
@@ -1101,7 +1101,7 @@
       "accountIndex": 66,
       "amount": "1129746942186273268930",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6691429f785fa8f84aabfeeb801a2493e09b5349fce2c924937f5d6ad90aa599",
         "0x422863b2f4cb9fc118c1d30eae5b39b7a5bda551e2a7482ff4682aba3931209e",
@@ -1118,7 +1118,7 @@
       "accountIndex": 67,
       "amount": "530402387459182",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe06d5341f87ff632bc8a1ebcb0c0b30cb3cd7700130abe2c7fd9f881ad529a0b",
         "0x96a03150082b4a6829a04eb8c86b92a4f5db5a82cafd39ad5a0805d95cbd39d8",
@@ -1135,7 +1135,7 @@
       "accountIndex": 68,
       "amount": "1544486374950152877",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x0a7d63312d65213300f6ff3630d8b4cbbcfec2f11a2607dfe8e0db110b10f2f8",
         "0x80bc53fff77393b3f863719fc88da842aa58709c638cfdc2e02c96d088b76e11",
@@ -1152,7 +1152,7 @@
       "accountIndex": 69,
       "amount": "824156936190229755",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x752936fadadffa177ba248e34397ed5db2a4e9c9867056e888ac49aef2448824",
         "0x1f1da084b325bcaa67d7088e3ab73379e3d781eb41a9413a901cc99a34840c53",
@@ -1169,7 +1169,7 @@
       "accountIndex": 70,
       "amount": "21798100456615662081",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xffa0c82109eaad9424f8e390528101aa0b4684db9791f219d87cdab21fca66da",
         "0x34f943f9762f9bd409564ae71a0ef8c900fe8e36a78a352935705f404278d9c3",
@@ -1183,7 +1183,7 @@
       "accountIndex": 71,
       "amount": "315086540945539208375",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x21be806e60738bb72099ef2c38a0a2cac9f89e499fb784c62bd234ae761b7edf",
         "0xef1844e81322b67b529613e090f50e3a32ac8c4b8aacd5e6e90de72e867ddd95",
@@ -1200,7 +1200,7 @@
       "accountIndex": 72,
       "amount": "7827743598462710024",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd4c86dc3eaa68ed4ca40992b9c7de2e202cf0cb4ee9e913e28b7f8b7e7c355dc",
         "0xf07eb9f0bf95cf7ffd3b71dc55d8a52f69e057aaf36fca9a992e6a0a638e259e",
@@ -1217,7 +1217,7 @@
       "accountIndex": 73,
       "amount": "1953403043701199985223",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5d1af9c5bd5b6634ff444991b39f19c432bba15c2d36f1acad59cd19379e7e0b",
         "0x6e243d22ed72a190a5f0c728ecd4aa9da3684656d162febb98a800b116656597",
@@ -1234,7 +1234,7 @@
       "accountIndex": 74,
       "amount": "487952035969986072702",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd66d717cf4d4f0241f40107afd3ca12a466101ac9aebab25800833926d07f16b",
         "0xf07eb9f0bf95cf7ffd3b71dc55d8a52f69e057aaf36fca9a992e6a0a638e259e",
@@ -1251,7 +1251,7 @@
       "accountIndex": 75,
       "amount": "12599757269330194548",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa74dc7f5d8b9ee7f0439abe1796973db9d70e3c12baceac2dab56e299dfce234",
         "0xdaf66e8422233c123be5f0383d1811f605713be29c2d17226c7170588d7952d0",
@@ -1268,7 +1268,7 @@
       "accountIndex": 76,
       "amount": "314257325401608701742",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2d55a6fe07f5ce88809f91024be34153d953ad4c7350afd12cd408c39e37c424",
         "0x9a7ece691829ec395a740f6bec73090db84cd494616a550d523c501ce647b29c",
@@ -1285,7 +1285,7 @@
       "accountIndex": 77,
       "amount": "48262183018376567099191",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc7e0fe337a39d63d485553a176aa738ac35a48324b8a91598b19506d04f9ff3e",
         "0x8e8903a470df378a551eba5f604a64f083d8f3024306e5555508b3990db23dbc",
@@ -1302,7 +1302,7 @@
       "accountIndex": 78,
       "amount": "1214587290989811800552",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xdcca41825a3bd7329a64dbb491a63e0e1090e24509022453ba5d604f22d70c2f",
         "0x909d609e17d39785cdfd19660d62771880ac733e18af8375d4c36889a96cf946",
@@ -1319,7 +1319,7 @@
       "accountIndex": 79,
       "amount": "53736846435700112074",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x109ecaddea15292463a7f5977bc15bf1da2347e2bf99fe0b75a22d54691907e1",
         "0xbdf60bb5416b31b9764aff0f15637f67dc701bcfb0eb86d08adf886be3194f9e",
@@ -1336,7 +1336,7 @@
       "accountIndex": 80,
       "amount": "1169279891093001770427",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3be49730ba5853a6df2b5d7e5d97457cef0171ccf08d5606ea12a6255cf0c7c4",
         "0x4a3cb58200516952c085fd530b0e2ef4aa4dc1ea1e17b37307c40887235379dc",
@@ -1353,7 +1353,7 @@
       "accountIndex": 81,
       "amount": "205280167088431615070",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5a76713b46ae1d9db16fa68399bcff0524c17f697928311fd85647078924103a",
         "0x91d30a86d40f84c7f9fb9ecbcb520cc3b5543c7deb5588abc965f022f611f00f",
@@ -1370,7 +1370,7 @@
       "accountIndex": 82,
       "amount": "5099551793783071073113",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4eafeacf471060c67114d58d5d003b7af348ce6205c4d870e162207a43d75867",
         "0xf0d0b74d118e3d98cb9652f1862f3f0f020fa64a06a714d9d78629dc9e8913b3",
@@ -1387,7 +1387,7 @@
       "accountIndex": 83,
       "amount": "3494950790166145497402",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2226216c49ab8ffee788a53001628a07fb4cf60e3d8c7f715bda77edc639b2fb",
         "0x44ccf60ea51721250f63213c790f215dd623256b1b70a1b0d8fbbbd777b0f408",
@@ -1404,7 +1404,7 @@
       "accountIndex": 84,
       "amount": "4361502160700884639734",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb5f7ce5105796e1780f7d8f801448b94eb3fb639fb94bfe31389e34ccd7d5fbf",
         "0xc40731698695a29ae250482b89cfe0c46cae6a0bb1e65da6f6e9395e171b37b5",
@@ -1421,7 +1421,7 @@
       "accountIndex": 85,
       "amount": "9658471957283797858226",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4e2d32da7b4630d013ad4e8e22114adb3ac6c14c60d9d2dc009590dc63d627ad",
         "0xf0d0b74d118e3d98cb9652f1862f3f0f020fa64a06a714d9d78629dc9e8913b3",
@@ -1438,7 +1438,7 @@
       "accountIndex": 86,
       "amount": "719342560005060636671",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xcb38703dec54d9e30aa6510cd8e94bc6924380104aa04553bdfb75bd6ff63133",
         "0x3f6065bdcc21494365c2ca3baca0c5042aee0cb9e9e2e2f6ddbcced90974ad70",
@@ -1455,7 +1455,7 @@
       "accountIndex": 87,
       "amount": "22346678028766251818",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe2c795d3ae71d3b67eb03ffde046fa42ea5d67ba65a3a2eb4d790795388d14d4",
         "0xcff2186dc544a881dc478cd3ceaf669d4f4f087a098878857ef6050fd71b4d87",
@@ -1472,7 +1472,7 @@
       "accountIndex": 88,
       "amount": "1290261297182835412",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfccbdccb6ad747280252595c1135cb64fa0e16e4340933363be48dbfe409af56",
         "0x3e5590bf0c44059fea59a09ed0149a8c581ba332a83837782fb8f73a5c37a74e",
@@ -1486,7 +1486,7 @@
       "accountIndex": 89,
       "amount": "7572786254975952924147",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x442b58c71d6298ab043e590dce44cfd576a3a34fc825a1368aac2ec3b826f3b1",
         "0x0c2d5ea78f6956a45fd7451c9a03fc0f03c571d9ee9cb95454f8e2d920d55aeb",
@@ -1503,7 +1503,7 @@
       "accountIndex": 90,
       "amount": "5822447743557816406",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x12ba903333c98320597095538115a10d7fa729690afe51c8ce6ea4ec053ec975",
         "0x621442ad3e2dabcee0eb41d1d65d7076dac0673c396f2de0ddebba61b8dcc908",
@@ -1520,7 +1520,7 @@
       "accountIndex": 91,
       "amount": "881834924949029201221",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa62767323c12f3904f6d80b7266f29bb0c6eb361ebdc33c5ec549bf6bd0e125d",
         "0xb8276347f35dda6f2ed8236e85b54e3a2d6ba00b45a0930c26d9bb848fa9f4ec",
@@ -1537,7 +1537,7 @@
       "accountIndex": 92,
       "amount": "2779033825017285262634",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x776fa780fb3e986d4ac5813cb405d19583631461128a7da6dda86b5e2ec14c27",
         "0x591a0c93027920353dc61cb877bd2781f44368df6f94f825c7b05f27450e137c",
@@ -1554,7 +1554,7 @@
       "accountIndex": 93,
       "amount": "16508005918540632",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x82e7ecac013c62dcca0f2ccb78316b52c3857bc28d0c8bf963bf14829a190f2e",
         "0x444ef317a86683d87101300bcba9043163313cf5879b3363161d82e72798c675",
@@ -1571,7 +1571,7 @@
       "accountIndex": 94,
       "amount": "1176617214048050522743",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd186339db03497acf70881b62495aa2aa9702d0da5be8561c49a6a6e15e79af5",
         "0x38af3612a2d1e56bab25273ce128c76bb4a23be7b1c2f83b416fde9aa72dc63b",
@@ -1588,7 +1588,7 @@
       "accountIndex": 95,
       "amount": "416629663282275943",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3e87b8f82976422e6793cded430f1a8ea35e1740a9b410244ce17343795b4835",
         "0xcd8b7e280ade95a49ceaf1cd616b5e9d7ed9da91d05f1432301b64a4a8bc0be9",
@@ -1605,7 +1605,7 @@
       "accountIndex": 96,
       "amount": "376159656619109734042",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xbf267d4bba953fe3f66b7b60bff2b993f61c32d99911335f94015e1ad84139a1",
         "0x1f4676a767d93671c1b12c87e8bdf92fe966901403e7f047ff76a525a0d059dc",
@@ -1622,7 +1622,7 @@
       "accountIndex": 97,
       "amount": "2511964274340960713",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfa3baa13cdd5c2677e8682e2eba83a1a5e0215f0b5c8d85a04528b1a84b77f91",
         "0x5c8d8d21d3d6464aad71a3d51b0cb9c5880159182b33f024befcf26182a0dc60",
@@ -1636,7 +1636,7 @@
       "accountIndex": 98,
       "amount": "138858893920094475747",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x89c6dbc9946178124009471700057c0a41986c7538c638342dbb6d656585b2f8",
         "0x738a86cb2d877f116da368ae9c10b2130f07194a5fd5ae2a2b4c8306b834faba",
@@ -1653,7 +1653,7 @@
       "accountIndex": 99,
       "amount": "15974244726686017368624",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x83814830e70cea6da2678e48636ae7825e1def235f76474b6be43e6e20264ab8",
         "0x636d3a0ad1a448667a6f0fd532082026a9c0d5d2afbfea5d81f119a2c9c4274e",
@@ -1670,7 +1670,7 @@
       "accountIndex": 100,
       "amount": "139008859685019870098",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa59114dde6f5982e6e0c808aa27e12ed2cfe30b0d8820412bd8659e408476387",
         "0x762c8e22b7f20f990c57fbbbbc9f3478d2de12a39bb4572b07a6bb9f009595c3",
@@ -1687,7 +1687,7 @@
       "accountIndex": 101,
       "amount": "856781425718714150522",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x85a15f0566b9154366ae593a8c093b6d825ca62ee3ab27ec040178f1d9865e84",
         "0x57bc49222bb19e7795919644c82e60c8282be8e4a6233395101d2548fa36d60c",
@@ -1704,7 +1704,7 @@
       "accountIndex": 102,
       "amount": "2510492566738652043",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xf032624f33e87253ce6146383e14f321b2d8db48fb83f6e6bef2e835c788f883",
         "0xc361f384a121455033da5c7101b0a02061f5977a7a8cfa5dc14fc9155aeb29ef",
@@ -1718,7 +1718,7 @@
       "accountIndex": 103,
       "amount": "1231124545921369900856",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7ee1398c371379e6add1860c26cfdb75c763dbadc21761d7361fe748781accee",
         "0x7c7cb6b9d96a2c973f2a40e075d6299aa24760b7cef7b2cccec05404eed91c37",
@@ -1735,7 +1735,7 @@
       "accountIndex": 104,
       "amount": "115779427545262435873",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa5719ff216709c0978c627f793857b7f923e78bf950725dba794c54152e05f21",
         "0x762c8e22b7f20f990c57fbbbbc9f3478d2de12a39bb4572b07a6bb9f009595c3",
@@ -1752,7 +1752,7 @@
       "accountIndex": 105,
       "amount": "1845215170393333450690",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x13b6dc02630a82c17ed857c8aa9b1c4b755f5566031ca0c48276aae90b946ec3",
         "0x764491baaca93fb7438fcc7efacc9ca04422ef02a8c1b300ebb96e9c12ea07c4",
@@ -1769,7 +1769,7 @@
       "accountIndex": 106,
       "amount": "361389347706451372421",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x817c0227b95574efd1a8f051a973c6a1da19555f980c606f716bd9beb5e2aa83",
         "0xabdc48805d08ca017ce4cd48f7b519251f12231fb47871f2765cd89d291238b7",
@@ -1786,7 +1786,7 @@
       "accountIndex": 107,
       "amount": "6266954283448087860",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5a72ce9aece2b0a305c8a8eaa2eee4264120bab66b80dc18dad7cff958c08869",
         "0x0df7961d3198d6e6872e229f2c0de4639a1592149125737d0de1b0bfa555998b",
@@ -1803,7 +1803,7 @@
       "accountIndex": 108,
       "amount": "12562577053577932216",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xba539e7f162de5b4a312cef56b5d3031c58bd8a68adde0ed2bde3e61c5f0fd1e",
         "0x44421d280cf8ebc1a6744a8c9bddc73a3d28cf3e5a1960c9ef88347517d64743",
@@ -1820,7 +1820,7 @@
       "accountIndex": 109,
       "amount": "116249367813842683227",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x88b64b4d491a89063e7dddbc515f34e33d238c827eda70066f8829148cd9121a",
         "0xb3dddd3ac269c6205ca447e7e6fa8abd67e298eb4116aabf23823d96ab9a5a46",
@@ -1837,7 +1837,7 @@
       "accountIndex": 110,
       "amount": "117631750336144675149",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6e5cc0c22d65b9291ffa54babde1cdfd04ad3a7cce0bcd210e40b7c6b00152aa",
         "0x6941106c36dbb4b8a2407b8f48480957b8df51c4c235ebdb45eaf2b0d1e466cc",
@@ -1854,7 +1854,7 @@
       "accountIndex": 111,
       "amount": "15267054142466588849",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xcae85f238a26892497b056ae24f24235b461379f40af432ae51dfd04a21bc731",
         "0x8de67ab739661221775582d46a4f20852f0ec375f9636e11b92c11f1fe1940aa",
@@ -1871,7 +1871,7 @@
       "accountIndex": 112,
       "amount": "89946589942007127030",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x37c66abd0a7300265dcb9986fa282f294d850f527ae21e5675b3ad5b0ac3124e",
         "0xa3783ab6b0f2f06a4f8b82da884523cee0e9a09317eba14a702edc94fd202aff",
@@ -1888,7 +1888,7 @@
       "accountIndex": 113,
       "amount": "1358328122010818892743",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfa2b78153f3de0656fc45579e1cf3ed41872a8a06510b3d96d7cfd633b22ceb5",
         "0x5c8d8d21d3d6464aad71a3d51b0cb9c5880159182b33f024befcf26182a0dc60",
@@ -1902,7 +1902,7 @@
       "accountIndex": 114,
       "amount": "2521156220783731693",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x56329c08e81b1119de406653f9dcdc350a82d4e7afe9e44611b24b32735f530d",
         "0x0df7961d3198d6e6872e229f2c0de4639a1592149125737d0de1b0bfa555998b",
@@ -1919,7 +1919,7 @@
       "accountIndex": 115,
       "amount": "159119924653482557565",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5e7f5af53a91038bb8edce9bc96e66388cc68e2dc66ae5e4707926cd6d175fdb",
         "0x9d2220e092a3cd95246b64142d5f8e8632910c6769e954b1087b2fe1251774f9",
@@ -1936,7 +1936,7 @@
       "accountIndex": 116,
       "amount": "111459650947086942688",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x23d9a8dc803c8e0bfe6cbe6b5b6d185429815abee655c63537cf8acaf40728b4",
         "0x565b712d9d47a282a5d612087e2df5bef81f3f0d06b2622a99adc7f44048c29f",
@@ -1953,7 +1953,7 @@
       "accountIndex": 117,
       "amount": "456161830950334136230",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x00b6dcfd04726451bb1c1842e16f84e76c7a3a1add0ae5031c5e180a6b7bcb4a",
         "0x49a4d850d475c2f69b5bfc396276072a70564ad373c90fe76a41c8cb2e796f30",
@@ -1970,7 +1970,7 @@
       "accountIndex": 118,
       "amount": "70137421581538529061",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x127d7d95f059dfba0d85c0672739104cd6fc25190889dc2bb7fb8bda90fe57e3",
         "0xa12de963b532dbc012a7278a3bca7614118eab9c86a190620564e0d634dabc3a",
@@ -1987,7 +1987,7 @@
       "accountIndex": 119,
       "amount": "874560495180944064375",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x68e52c4073063f1288fcf03c95e791f710d9efd706609c16e4afcfdd610d5c5c",
         "0x5c3d6c4209463658a700484eb1ec39398be7fa4a9ecd7783394bf0218e8caba2",
@@ -2004,7 +2004,7 @@
       "accountIndex": 120,
       "amount": "1784251917758098398",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x54a1bab5e32a256a862213d19130b6710623fef8d50b006b1840330df21c6c3b",
         "0x79148e7c8607585706d77daa6a31a38a51e7038716740653c6ae007eebe0dace",
@@ -2021,7 +2021,7 @@
       "accountIndex": 121,
       "amount": "330173724628835238",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc7d286d79c0cacaa45ee4922894dda521091bbbfe60e59f9f82a827695265cde",
         "0x8e8903a470df378a551eba5f604a64f083d8f3024306e5555508b3990db23dbc",
@@ -2038,7 +2038,7 @@
       "accountIndex": 122,
       "amount": "1367870375565943454839",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc20e7ec2b08ba85c216068984f22461eedf657de44f83b5c22c06a5c96206fa0",
         "0xcc2f572d9558b857b2903d21b988fa1c120e140f7dd683de6d735b11704f35c2",
@@ -2055,7 +2055,7 @@
       "accountIndex": 123,
       "amount": "4649302573889135584",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc5e3bb1cbf0efe63db508f207c83ac63920c98f81fbd212f530e61d5b3f5dab1",
         "0x45d55951d2c3e20197787cbf1a96fefa19c7ee9e8fe73904ca8756e32dc8ecff",
@@ -2072,7 +2072,7 @@
       "accountIndex": 124,
       "amount": "6188027853681565689",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x05363e8a24603bf5570182c74dcdf36e4589b667cb61a44aff543194a4632000",
         "0x1aa35e35d13dbe0bf56d63f368b096bd59ac16eaba2c8682ca3a9d489cc7a141",
@@ -2089,7 +2089,7 @@
       "accountIndex": 125,
       "amount": "1473339965162277541",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2a977ef277bbad7093a780f4684bb16a839585eb6ddf2ead3610fc72191a2b4f",
         "0x55c16cbf8c6e3d037911fb7a5ae6d303b95823eec05674309fc47ff2bb3dd093",
@@ -2106,7 +2106,7 @@
       "accountIndex": 126,
       "amount": "4169685437852898356",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x69baf5da1722286cdde17a68bfa558ef69e91a19d3f8813060bb79e390ab1193",
         "0x7acd82854df65a7271dbdfe11f651e8e32d545f0a678d47b83b23be74b45c003",
@@ -2123,7 +2123,7 @@
       "accountIndex": 127,
       "amount": "16503610041711003568",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8fd40a57cffad33b9702bcca5e64ad37e589ebdcc3d27106890fd59712a89ae2",
         "0x10919b38ee1473fc93fb113b9ef5e154f22b136355fbc04fe149d197579a4932",
@@ -2140,7 +2140,7 @@
       "accountIndex": 128,
       "amount": "7071313162415684908",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xdcc9d3bc79896c084f895efe42442ae9020ae6b62521c4ddad3ecfdc932b20bc",
         "0x6a609d33d39c3b93c8fa419d9add15552a0439cc701be2f69881773daea34ca0",
@@ -2157,7 +2157,7 @@
       "accountIndex": 129,
       "amount": "578754461597651000193",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe00bb197c12a267cc8dda821ea83e02a579269a694374dbc0d646068c22dd1de",
         "0xb9e5a9537aad366ae76ee9f3f99aa4089356bf0794c41e2bfac24a890c55a776",
@@ -2174,7 +2174,7 @@
       "accountIndex": 130,
       "amount": "3073890458632043985",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe593e94227497013583feac9cbe04d02e1c60782ec54a27bf877be522a62f0f0",
         "0xbebaa8837682b247ca04478bb07595da2d31398ce15ecce9aa27b6f8795e28a0",
@@ -2188,7 +2188,7 @@
       "accountIndex": 131,
       "amount": "1765538325998014489",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa45bf8e2d8d0844168bff82781e0b708d95dc7d84cc221b7b7ab366df72107c4",
         "0x96326ba05c310c1b5123d503e6ec1f0e0a6de00e9cd8615ec646dd764f14b55f",
@@ -2205,7 +2205,7 @@
       "accountIndex": 132,
       "amount": "2438662697289715071",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xdd72a1a9377938bf6f49c1d963d49701477c58344253689d71f13252980f3c0f",
         "0x9afb7d03070fdf7ecd5d45edd8c1a7f3509c754283580502ac93930b5ff09fda",
@@ -2222,7 +2222,7 @@
       "accountIndex": 133,
       "amount": "594129949592939114",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe81f6b96e7fd862a6549e35ec2f143a0dcbc50364278ae8c065c98fd96a7d68a",
         "0x2d8b04926cc60e6a883e45f5309127856e9ac009c909381f70e014942b4c4fc7",
@@ -2236,7 +2236,7 @@
       "accountIndex": 134,
       "amount": "4624761487496161752",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x917a92f6ee443c624d136300ccb3abffd76f5538b362b2b97a246c62aa83a91d",
         "0x506dbe325c8b0f901325d1ba7184bbcf899572fcec84302ac6da45a0f65aff5d",
@@ -2253,7 +2253,7 @@
       "accountIndex": 135,
       "amount": "192012523011647647779",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb238111d2e68ab353351fb300e0bafd057d7dcc10ea4674b1d1be5e681431130",
         "0x8cf34daaa0421d6cbb608091d37f2517af2f00bc18ac0cc68517d46d3fe13437",
@@ -2270,7 +2270,7 @@
       "accountIndex": 136,
       "amount": "961016257131991757261",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x83b4ac81c9495c951dbcc01da682094756cb9caf4677bc8475eeca9812b73387",
         "0x636d3a0ad1a448667a6f0fd532082026a9c0d5d2afbfea5d81f119a2c9c4274e",
@@ -2287,7 +2287,7 @@
       "accountIndex": 137,
       "amount": "485068334908144050163",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5f10b6bd66b14f82f7829124a4b9b53dc2c075ffc768332a5edeaeab7ed03de2",
         "0x9d2220e092a3cd95246b64142d5f8e8632910c6769e954b1087b2fe1251774f9",
@@ -2304,7 +2304,7 @@
       "accountIndex": 138,
       "amount": "10203668890795414578",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc224afd182c2be070315f741a8e5d1be4195d7cd8f44fdeefa4f3c231c7d498c",
         "0xd74444b16e9a5b2e2717099bb45ed890be3bd589092222b2ddc6e5e11372bc93",
@@ -2321,7 +2321,7 @@
       "accountIndex": 139,
       "amount": "809493513332493605160",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x76d3970721ed4b7ab8f224ee0ad34eebd2cb8e4649153c2e6e38b85220fabad8",
         "0xf7fed6748b75f9199b4601303379d81e0e91fda8f9126eab3c1aa731e960a3bb",
@@ -2338,7 +2338,7 @@
       "accountIndex": 140,
       "amount": "28887682690491912167",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7f24a9715db1f6a95d6439aa6043f842a6da75c437e10dac09e8dcde83646c66",
         "0x7c7cb6b9d96a2c973f2a40e075d6299aa24760b7cef7b2cccec05404eed91c37",
@@ -2355,7 +2355,7 @@
       "accountIndex": 141,
       "amount": "3024455347593719148632",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6b698b9a2897ee83ba5533fbf027f41214888c7aadea118ebc9f2d5f58f4744d",
         "0xa63098655220cd3412183d468043f6404b083f760e9fbb2948ee0cb2ea164646",
@@ -2372,7 +2372,7 @@
       "accountIndex": 142,
       "amount": "556986798561365967124",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1c27fcd42c29b37cb9fb82d417d3c95299b336b58368e4e9252590eea20f5ceb",
         "0x7d800cb3f099424d948df5906ef405fad8bd0d6f1c15a5ca7ac5c744857b7bd1",
@@ -2389,7 +2389,7 @@
       "accountIndex": 143,
       "amount": "52175963964298698795",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6b700ea32929e910ea2e8f2451e9fcfa73119d94b0047515250158fecbd30d69",
         "0xa63098655220cd3412183d468043f6404b083f760e9fbb2948ee0cb2ea164646",
@@ -2406,7 +2406,7 @@
       "accountIndex": 144,
       "amount": "77043383904447423",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x82b6f9c900b2d02e562f5acaeaf166e847425a793f20c7d953c92d527174a543",
         "0xabdc48805d08ca017ce4cd48f7b519251f12231fb47871f2765cd89d291238b7",
@@ -2423,7 +2423,7 @@
       "accountIndex": 145,
       "amount": "2096945782979671944087",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xaf2b2b17f6dbc3f0a8a0d3d6097b39a076f07d307bf8dd0b6491e890917062b7",
         "0x0c9dba1b3f9fba5fab0cf84d31c06171ef56fbaa8487db36f9a2cbe3a53ed57b",
@@ -2440,7 +2440,7 @@
       "accountIndex": 146,
       "amount": "1201487166471764071252",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe2cf570d318f482936480e08a94ab12ee49a7c8b3da6784424963c857535b3b2",
         "0xcff2186dc544a881dc478cd3ceaf669d4f4f087a098878857ef6050fd71b4d87",
@@ -2457,7 +2457,7 @@
       "accountIndex": 147,
       "amount": "934725188166611856266",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x960900134d5dec246d34508a90e900d1db7fd4ec6555ea0e11bd1a02a3de1570",
         "0x32990eda3b514f36c7465af5c916892d548d737a4665282ed2cdcd6d65196c0d",
@@ -2474,7 +2474,7 @@
       "accountIndex": 148,
       "amount": "42525417681365576678",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8cf2006f87b4596733ff1d071e8ce246f0a698a3b8aa8f6bb189f4191fbf1bd5",
         "0x8791a7e848d56a9a4ec44ab4955872fe0adcce883b54bd784e2562a124803764",
@@ -2491,7 +2491,7 @@
       "accountIndex": 149,
       "amount": "150965485982539206908",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc20f0984b32b906777361da0b18c9068bb5ad4be3fe67dbf40395931012e006e",
         "0xd74444b16e9a5b2e2717099bb45ed890be3bd589092222b2ddc6e5e11372bc93",
@@ -2508,7 +2508,7 @@
       "accountIndex": 150,
       "amount": "2414080455114405917",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8f5cde1469c6b70964fa6e1acd0c2516ba45919d7208731a3856af7e9954066e",
         "0x8370a2d2c401814ab5032f7220b66e3a42abb46fd945e24a93d41e6becb2ba27",
@@ -2525,7 +2525,7 @@
       "accountIndex": 151,
       "amount": "1027689614163541109",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2154548a15d1fad326430924bb3501aca095ec5fad73dd258b6efb262ff37e20",
         "0xef1844e81322b67b529613e090f50e3a32ac8c4b8aacd5e6e90de72e867ddd95",
@@ -2542,7 +2542,7 @@
       "accountIndex": 152,
       "amount": "4130990281003320335",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xef68c456095cb6a55ccf56ad0b0559fb8bd37e12962e76997e41672cbdd30c4e",
         "0x28a15a62d517f5fa718419b93ded64728455d1c0a9a57c09155b75562f4c2b7d",
@@ -2556,7 +2556,7 @@
       "accountIndex": 153,
       "amount": "184302855568401422082",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd28ec218958217c5bab48da51abb423ce7021019080fe0b7dc84c27c5d82333a",
         "0xa278efe5d353722d89fc06bed3d7b7f59cfe2b1b0f4606d97ea96824ef86d20a",
@@ -2573,7 +2573,7 @@
       "accountIndex": 154,
       "amount": "909550098687363596647",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc16ae1f29278d58f93cdc358f85e33bc01e081bad0dbf2393cb4acae5a664d4f",
         "0xcc2f572d9558b857b2903d21b988fa1c120e140f7dd683de6d735b11704f35c2",
@@ -2590,7 +2590,7 @@
       "accountIndex": 155,
       "amount": "573730873924949188537",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x109009c2e17ce8839e227ba8d43a0d27969f69eefd6f87a71b47e9bcce2093e1",
         "0xbdf60bb5416b31b9764aff0f15637f67dc701bcfb0eb86d08adf886be3194f9e",
@@ -2607,7 +2607,7 @@
       "accountIndex": 156,
       "amount": "78180367523772218246",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5aadd34aa98fa945e1a12e79f8f6e6e767dcbd09750eae4b445cebe34364a561",
         "0x91d30a86d40f84c7f9fb9ecbcb520cc3b5543c7deb5588abc965f022f611f00f",
@@ -2624,7 +2624,7 @@
       "accountIndex": 157,
       "amount": "14284445598255174",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xaec6328d648d1fb0a8b8ef5528cb823daecaca945db4a1cb4f8571408110367d",
         "0x0c9dba1b3f9fba5fab0cf84d31c06171ef56fbaa8487db36f9a2cbe3a53ed57b",
@@ -2641,7 +2641,7 @@
       "accountIndex": 158,
       "amount": "714222279912758735463",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x98124b80384537cfa534d3cb70f81445cf3734bc6efb580d318cff509313927b",
         "0xfb738adcf6791f6c93ad5ee68dca2dfdc3dac5f47320185d1fe4a53fb0a8c817",
@@ -2658,7 +2658,7 @@
       "accountIndex": 159,
       "amount": "594947709274691625196",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd37f094d5845af8c438bf9c2604287a440a54f6ed341e96f70f9afda2e9f351d",
         "0x82035c56283e90ee125b402f5dace003f00d1fad69713ca770605a69478ef74d",
@@ -2675,7 +2675,7 @@
       "accountIndex": 160,
       "amount": "2696618517227762241",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7a646c8806940e5f756ea0df6bc5ec9f87fa83f68abac0c65cabb25f804e6b3e",
         "0x050181e87056274219aba4127738081afe9fe172f5223068bfe1b3ef1c613691",
@@ -2692,7 +2692,7 @@
       "accountIndex": 161,
       "amount": "251133787608078039",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6d62563eca6e4440a2bd253293f4db1addcb2a32b860d51ffe29d83bdbb02f85",
         "0x78e5fe3afb7b8c01bd10833d7217665c42c5990f5ecb407b9d923283eabd2bb3",
@@ -2709,7 +2709,7 @@
       "accountIndex": 162,
       "amount": "8218293289866339798",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x381308d1ddebb4a2bcb482793dbe65b8dbaf495902fcc1fe7dde4a08f4cbe7ee",
         "0xc81ef813c59e88fb825f9312f102fc9ce4dc9818b1d0b14fe4c6a46d4dae8bbd",
@@ -2726,7 +2726,7 @@
       "accountIndex": 163,
       "amount": "187349013844948783558",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x9c063b251894b66ab4cb9c5d6f4d669f577ce4ba9468883037aac0fd4bccfe4c",
         "0xdfd780a9dcab2e6882a171115fc5a3f8ab218b5147539eed98e6529348ffeb9f",
@@ -2743,7 +2743,7 @@
       "accountIndex": 164,
       "amount": "41874515008780133822703",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb481314c33e5d60f382971bc7696eeed501ee6b807a3d8afd0ba9775545fd1a7",
         "0xde2920ef8acbd76adb4a6bf074cb6f753f7bf882acac9547c6546eaf2bed6659",
@@ -2760,7 +2760,7 @@
       "accountIndex": 165,
       "amount": "209614517151371381883",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x49610ab0abb7fb3856105aa4cfba8a2f3b64d4f9a2e387d0f782efef9967f261",
         "0x28cfed32bd96f2394a9e06089b3c5cd4bd0e13237f86f2dc6e69c5283e19b25c",
@@ -2777,7 +2777,7 @@
       "accountIndex": 166,
       "amount": "237063953159775209",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x25dc55118e1d9e8caaec3ea304b0c335dcaee1092a6b3ea56e2320b37e3ef10d",
         "0x9952fdb0b83fa8ee968eeda7b916e341e9cb6d64c9d87bebd2ec990d436bb5a7",
@@ -2794,7 +2794,7 @@
       "accountIndex": 167,
       "amount": "2225542037679030968249",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x04282208a29b8193659f48f3c8bc40a6c606a45acf76720308cc1555aeac3872",
         "0x49a4d850d475c2f69b5bfc396276072a70564ad373c90fe76a41c8cb2e796f30",
@@ -2811,7 +2811,7 @@
       "accountIndex": 168,
       "amount": "1828791000844631108450",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8e02b89bbbcfdddd32fa746275be56def63e6339e2b57b44bd0df645eb4c191e",
         "0x9ed0522622025ecab3f48a68d257b39957d58a76ebd83be90be9d02b82a36766",
@@ -2828,7 +2828,7 @@
       "accountIndex": 169,
       "amount": "14733399651622775452",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7dc7721887fa99bafac6a28db61290e836db513e02a9fd4951a5d01e463feb90",
         "0x6665a097b8d787d91dca0baaedb4b1bf518c8ad7527a84ed0f9daee17748f3cf",
@@ -2845,7 +2845,7 @@
       "accountIndex": 170,
       "amount": "3139467188331683213",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4778d754ed2b98492a9a9a080bf353cfd7ba586c8eef2d1af8d144304950da5a",
         "0x084a206bb3010193eca9e46dd2879c6f775902c7a12b4d4c780ff97426b12527",
@@ -2862,7 +2862,7 @@
       "accountIndex": 171,
       "amount": "4582793916936800135301",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xf0cc62378e4d72c6e21854419207dbd8bd7315732798472844756b7db11d1c65",
         "0x69a3ff1b637fe552a88093689ed946e8014fd46be95022162bd17b52db9b032f",
@@ -2876,7 +2876,7 @@
       "accountIndex": 172,
       "amount": "215136939626103191034",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xbcb45b7779aa1cd27e8e6478a9621d16b131267ec4b68a4c509376b4d04041aa",
         "0xbd626679a2ea3d38ff704bc27a5433e47c7745d9a5cd76b3e81b638ea886e6bf",
@@ -2893,7 +2893,7 @@
       "accountIndex": 173,
       "amount": "261504832939143641827",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xda61370d799aa0c69624b61d0c93f024260ebf99bac14487b85b277945ff7d86",
         "0x6a609d33d39c3b93c8fa419d9add15552a0439cc701be2f69881773daea34ca0",
@@ -2910,7 +2910,7 @@
       "accountIndex": 174,
       "amount": "1364286139377410683462",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x94d08281318bb3aefc5f2d5c9452baac0a5dd1396afdc37ad4dcfcc976b49d6f",
         "0x506dbe325c8b0f901325d1ba7184bbcf899572fcec84302ac6da45a0f65aff5d",
@@ -2927,7 +2927,7 @@
       "accountIndex": 175,
       "amount": "97351650693182441740",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3e4611583b84d87f30bd5355770f9211b8508926d4731dd5b6ce32caac845668",
         "0xcd8b7e280ade95a49ceaf1cd616b5e9d7ed9da91d05f1432301b64a4a8bc0be9",
@@ -2944,7 +2944,7 @@
       "accountIndex": 176,
       "amount": "353593802868095463917",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xba93538bd657f255621c7136281d81b99ddd7ffb2b29d579c3d267230b20aa72",
         "0xfcad56fff1ae6c46d4e49733363ed0d146bf185e81427c12d19271eb529ac29d",
@@ -2961,7 +2961,7 @@
       "accountIndex": 177,
       "amount": "325068319487092685892",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb58572ea369e6144c018a2bc26d9fa3a11681498660aaa1b00e80729176a5bcf",
         "0xa25e84c3cf628e3dcb3d60fefa72dbef23bc635c148d2a1fd9726a0838bc84f8",
@@ -2978,7 +2978,7 @@
       "accountIndex": 178,
       "amount": "30674057141753377764",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1418c99a699c7e0399ab0e06c1e3d30047f8cce398c6924633ef849e1063b5b4",
         "0x764491baaca93fb7438fcc7efacc9ca04422ef02a8c1b300ebb96e9c12ea07c4",
@@ -2995,7 +2995,7 @@
       "accountIndex": 179,
       "amount": "10738105205595987966",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7d684058856f736b9409b831129efccff9136cc682e8cfaaa62beb9a51698af3",
         "0x30d928b177420a108e81b0f19a1389722d7288f28d9920aab6a9fa80629d590b",
@@ -3012,7 +3012,7 @@
       "accountIndex": 180,
       "amount": "1870885827677643870",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa4393b1f65a9659f7fc21b8329f1c2153570d23cabc433f10207472752e4139b",
         "0x96326ba05c310c1b5123d503e6ec1f0e0a6de00e9cd8615ec646dd764f14b55f",
@@ -3029,7 +3029,7 @@
       "accountIndex": 181,
       "amount": "294667993032455506",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x35aa051a6a34a189cbc6e58bb0539be135047e908238692d83083c131e960e08",
         "0x52c3fd9e822f46bdfb5ec857a08219ad5570e6adefca75a880ac5853cc4df463",
@@ -3046,7 +3046,7 @@
       "accountIndex": 182,
       "amount": "927897875663322760374",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x427db42302da089ccee3f448378dc280cfeecbb27f48107b77d3b0be2fc2e496",
         "0xb56eb55c8c8e5cc1da3d5ca525a179c73fb2afe0ca55f9e3153a1fdf3ccf961a",
@@ -3063,7 +3063,7 @@
       "accountIndex": 183,
       "amount": "934451523081107612076",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb4a84061daf13de3d300cf3fca9468835f6251f1ad3c07822c0e8f5954674a58",
         "0xbe572437c60c21a8eb4ff31ae97d5d5588aeedba4ccc72133e4b787f62f54d64",
@@ -3080,7 +3080,7 @@
       "accountIndex": 184,
       "amount": "11795797584891158377",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xde5887e55b536079730ea63b19b6f14cbfabf64bd0e3d8293fc5f9c5d4485b92",
         "0xb9e5a9537aad366ae76ee9f3f99aa4089356bf0794c41e2bfac24a890c55a776",
@@ -3097,7 +3097,7 @@
       "accountIndex": 185,
       "amount": "78885194443033165110",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3c324d8288950922887f30b8f2d9a6713b6398ad13f294b6775c81beff51647b",
         "0xa7e9cb1e27a1b7b97dbfb5752c52eb40328416064d5418c2e7f480eb37492402",
@@ -3114,7 +3114,7 @@
       "accountIndex": 186,
       "amount": "1184565280566189106",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5204b93b2cd56f686158427dcc0bc0611dbf67fb7f4e5b1b2e0aeb7042837231",
         "0x23c73ad6547221a3f16b0c745be14334cc068e91efc86f87a4385d54977f4bb8",
@@ -3131,7 +3131,7 @@
       "accountIndex": 187,
       "amount": "1633904007184109096",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa9f2b53a6694fcf4c13729f606b1b8e5b5f6c241916fd7a3a9b97880cc915080",
         "0xec274836db68e86bbce5da9feda16ecbcf7b014c080e01fe90b68c4fb3de3b6c",
@@ -3148,7 +3148,7 @@
       "accountIndex": 188,
       "amount": "81906260995898125",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x84a37befad69dceda91419293f4575d2fb68c5d093750a7a62bfa02a936138cf",
         "0x2ef59a1e0062dffbea9053ff803e32da3d475f015ebe8b4f2fa6984d4f13b32b",
@@ -3165,7 +3165,7 @@
       "accountIndex": 189,
       "amount": "1463197618373829042",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x738a1d6bd38fdb9226df0cbc5c3b50376dc73a7c539d7d3a8c6d90c1049a003e",
         "0x1f1da084b325bcaa67d7088e3ab73379e3d781eb41a9413a901cc99a34840c53",
@@ -3182,7 +3182,7 @@
       "accountIndex": 190,
       "amount": "3005613528931046190",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4684c89c614ca454094112ff3ffb1bb05c69f15187eff3c04bf06cbd4e47f02c",
         "0x084a206bb3010193eca9e46dd2879c6f775902c7a12b4d4c780ff97426b12527",
@@ -3199,7 +3199,7 @@
       "accountIndex": 191,
       "amount": "702711480427617186462",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4c92af3b2763a3977882edb022cc5b0da3cd5a2b3e4b18afa541193811a4a1b4",
         "0xb08b2e338fc305e5d4d0cf31fa9d051becfd020fccb6fe6cc1fe621bbf0c072e",
@@ -3216,7 +3216,7 @@
       "accountIndex": 192,
       "amount": "82860023683875173203380",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x650ea983223360891b6797266f2bd572322a834e2be35023e35b426bc022c0dc",
         "0x5249bf8c7505911dcd4e7914541d89dd3e19676394b3bfc451008e88cefe290d",
@@ -3233,7 +3233,7 @@
       "accountIndex": 193,
       "amount": "2318134319633791237",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7832754b2417045c2583154f270bbaaae72f4a02414660fe807aea474f2efe3a",
         "0xa0eec31561e274933d2bdbd3a020e292c09963afed46a6ac6ff87e585edc0f82",
@@ -3250,7 +3250,7 @@
       "accountIndex": 194,
       "amount": "1245558149844751218809",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x79ed9a6101ee187795496482ce33a065f3883cb1f81eb577957582e5d878f05d",
         "0x050181e87056274219aba4127738081afe9fe172f5223068bfe1b3ef1c613691",
@@ -3267,7 +3267,7 @@
       "accountIndex": 195,
       "amount": "5640917774621773412532",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x887b4042ce7fa9f9cb3cdf049afeb85cffe2128f0a81b9a850156c7aed000aba",
         "0xb3dddd3ac269c6205ca447e7e6fa8abd67e298eb4116aabf23823d96ab9a5a46",
@@ -3284,7 +3284,7 @@
       "accountIndex": 196,
       "amount": "2164687702780311704",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4bfea4d905b5b1043939744cdff8b031d1403b56091fbfb15fd60bc597c9d129",
         "0x28cfed32bd96f2394a9e06089b3c5cd4bd0e13237f86f2dc6e69c5283e19b25c",
@@ -3301,7 +3301,7 @@
       "accountIndex": 197,
       "amount": "762566930425525797",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x0c1a458a875a2d6920ce2fb9a77837a5a388e5258202667afd9ad7572fe2f2ab",
         "0x80bc53fff77393b3f863719fc88da842aa58709c638cfdc2e02c96d088b76e11",
@@ -3318,7 +3318,7 @@
       "accountIndex": 198,
       "amount": "1657025541071356292",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x994c29ff23e934c6c512ffea91e8576fc825bcf049fe29f52181620a289980a2",
         "0x345380f70c0fc57b4098a38ef95c51d6f6335a903da63c6793db2ab031256313",
@@ -3335,7 +3335,7 @@
       "accountIndex": 199,
       "amount": "3889617508028412718",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1af4e29e164af9ed37208172332032023498ae4f9c777ea990df7a880d13cb08",
         "0x7cfa0c9f0657ca932b0a81e4d5aaad75d1370af0d0b7d7127abacf4bf3e31eea",
@@ -3352,7 +3352,7 @@
       "accountIndex": 200,
       "amount": "714222279912759019857",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x28d865b59434ff15bee4a772984b6a2b8e8a14e87dd55610f528540e2de6201c",
         "0x55c16cbf8c6e3d037911fb7a5ae6d303b95823eec05674309fc47ff2bb3dd093",
@@ -3369,7 +3369,7 @@
       "accountIndex": 201,
       "amount": "169471376799979305",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xcec0f22a3d313270e9fdf850ced06f9039c4550bb617326020b26cba2475ed6d",
         "0x90f47b38466b47a04ec3006382bb0f677c2a71c96bb1b49a1fa786e7fb3c78f4",
@@ -3386,7 +3386,7 @@
       "accountIndex": 202,
       "amount": "1219331348644857534",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa24d8319bb65b4addead43184372f3e29d6f27946057626c0bd617d0ff8c75b9",
         "0x562791634cc1b11465471b5268d26176f91d61e73b95c4c4f23469d552cf9a18",
@@ -3403,7 +3403,7 @@
       "accountIndex": 203,
       "amount": "1000163820569601241726",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfad82dd7b29f5d72ee402a34b2cae2eed6c1a2e98c4466513dab32c6c11bc969",
         "0x4a79411c2588022c8c2e749369b476abff5b79187fb7121cc2dd5cc96e8055a8",
@@ -3417,7 +3417,7 @@
       "accountIndex": 204,
       "amount": "1765763207807964769",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x804bcb108a0606da362004a294a4b7acde238d1b9ee0ed9d026ac7d940cc83c6",
         "0xd2b63f36e8a61d07748e4b610b45fdbff2476126bc29fa9e548f73dc04499a5a",
@@ -3434,7 +3434,7 @@
       "accountIndex": 205,
       "amount": "27640396685929661900",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x756f03b63d5393cb08de4c90401a9ed3f56e3dfb5a6db0a8debb4b874bb5dcdb",
         "0xf7fed6748b75f9199b4601303379d81e0e91fda8f9126eab3c1aa731e960a3bb",
@@ -3451,7 +3451,7 @@
       "accountIndex": 206,
       "amount": "2046379787048839975831",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x0c1e52a6bf1ab487f544621ff5014095a16de94d6fbe933bbca036af8e983f85",
         "0xd6e57773950cd23fd5935cfdd77b41df08c549eb99eace709faa184663d857da",
@@ -3468,7 +3468,7 @@
       "accountIndex": 207,
       "amount": "1061591771056154797470",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x254a465fd94aebd1b74d964d0eb24497cbc781acd8f70daac58d97bcb4be99bb",
         "0x9952fdb0b83fa8ee968eeda7b916e341e9cb6d64c9d87bebd2ec990d436bb5a7",
@@ -3485,7 +3485,7 @@
       "accountIndex": 208,
       "amount": "1497729562036314986717",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe2430ad704b5a3a351317705f76f3f603ca00537524add56a5a2c2ee5c72a422",
         "0x9fea6ac68605479397a418655158b1f30b3433307349cd954d6abb1be3944dea",
@@ -3502,7 +3502,7 @@
       "accountIndex": 209,
       "amount": "2312151402493398281",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb028954241063b718a56113c8c08aad1a7e865e39c1a0af56952b641298aec72",
         "0x8cf34daaa0421d6cbb608091d37f2517af2f00bc18ac0cc68517d46d3fe13437",
@@ -3519,7 +3519,7 @@
       "accountIndex": 210,
       "amount": "1950930157831772056",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5c3c0354f152a9bfdd9d67460c91f1be104e566534cdca78bb954d74ee20973d",
         "0x9e5525eff8b04b036726f4b2b132778d27d2eeeeedbf5a624a23851886426bec",
@@ -3536,7 +3536,7 @@
       "accountIndex": 211,
       "amount": "61076646844511571987",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x36d665d926e9b59338e19e2234017c7215ad65101b8395f3f1472503ca93072d",
         "0xa3783ab6b0f2f06a4f8b82da884523cee0e9a09317eba14a702edc94fd202aff",
@@ -3553,7 +3553,7 @@
       "accountIndex": 212,
       "amount": "93277615832827577178",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe5bb9cc2f0185a20452800f104914a3898234d72c7f35addea05ad9a3d2c2144",
         "0xde391b748dfd1dee0fb6a7dfc29f4f7ae9da3168da948b10367d075b3503387d",
@@ -3567,7 +3567,7 @@
       "accountIndex": 213,
       "amount": "850242822652356063",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd6d2826072d6988e62f4ccde3eff78a97ad746fe31d1fe89a893bfbd65f8c0d0",
         "0xf35c2db18c547f362ad651ffd2348c5b5f82ad9403bae3dbe03c6cc752c354ac",
@@ -3584,7 +3584,7 @@
       "accountIndex": 214,
       "amount": "24997779796946555741",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8c344664742456a671bdca181f6e5af8bf97db9dcd85f180a039735a884cbfd1",
         "0x6a5de519f8baed656335700cc3efb3354b99c87dc613cb513406a9316d87e868",
@@ -3601,7 +3601,7 @@
       "accountIndex": 215,
       "amount": "222835819398832352",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xce31396c98f9ca8086ea339e5f11f5bac49cb0dcc08a16d2e020ac0a5bcb57aa",
         "0x90f47b38466b47a04ec3006382bb0f677c2a71c96bb1b49a1fa786e7fb3c78f4",
@@ -3618,7 +3618,7 @@
       "accountIndex": 216,
       "amount": "403741438630810234233",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8a6cf6f16772a1172e941f46dbe51b5587211e4f7b9530de794f0fc83833649a",
         "0x738a86cb2d877f116da368ae9c10b2130f07194a5fd5ae2a2b4c8306b834faba",
@@ -3635,7 +3635,7 @@
       "accountIndex": 217,
       "amount": "28538065807233422069",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x7dea9719aa10228255567303c5fe1dbf9cb8c472072737a4254226158ec4620b",
         "0x75ea8068abbb7cafa7b486ce73a131a989624e8b8b704b99746e7b8891f71f30",
@@ -3652,7 +3652,7 @@
       "accountIndex": 218,
       "amount": "380723870926396316129",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6081d28e3e8d798428e1374bfbccfa46c2db05c886c02947bc5aabe69ecc3613",
         "0x77cde8952c374853e1e2b712910a6cb0362edf5d0110f6a81d2f8f22c9c6188a",
@@ -3669,7 +3669,7 @@
       "accountIndex": 219,
       "amount": "434177762404285739043",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc373f0b771ba704ab199a70378fef5e2f9d93f7efd0a3869040100819a51446d",
         "0x4e78638bf825594aed527bf5bcefea1d850b60a5f38fd12648c5fabdc134f96f",
@@ -3686,7 +3686,7 @@
       "accountIndex": 220,
       "amount": "2089237746994903794",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x63ffae298b03097709cf56d454b05a0d4ba9b7faef3ec51efa9f690addacb7b7",
         "0x4b7861256cce3e236b8b597f7c67fa5ba95531f00f45a772e96484b4c234c7c4",
@@ -3703,7 +3703,7 @@
       "accountIndex": 221,
       "amount": "605062302480584799168",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x45a0bd0865a754ce2c2563365b352cc24968e786fd2ac53418b92c865f7205d5",
         "0x0c2d5ea78f6956a45fd7451c9a03fc0f03c571d9ee9cb95454f8e2d920d55aeb",
@@ -3720,7 +3720,7 @@
       "accountIndex": 222,
       "amount": "1288112734909309628315",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3fd6aad222c455d064f4d7f4b99e3ef0ad63bb178c3af5db2bc1466cf66dab94",
         "0xdd8a7348d6bd9e0d2318165d01187c16bdae40d12e0efb90fb16d574a8fc73b3",
@@ -3737,7 +3737,7 @@
       "accountIndex": 223,
       "amount": "42299565428604207074",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x55d1f745fe46edbcdf697f26d4d9c91b67848f095f3c9151ef1813e628494fe8",
         "0x79148e7c8607585706d77daa6a31a38a51e7038716740653c6ae007eebe0dace",
@@ -3754,7 +3754,7 @@
       "accountIndex": 224,
       "amount": "128970388703461429290",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa995851d072260dcb9b8cf7b21c7069f600e697da707e3e5070c621d24a815cc",
         "0xd52cdaf436bb73e0d3f0ec29205e82c88998b4845ee39ac9fac580b7e61d0e8a",
@@ -3771,7 +3771,7 @@
       "accountIndex": 225,
       "amount": "25084052973897052100",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x27bcf21db231c62621a2e6e2823d39e45e0a0880e6d80939411ef3300e0198ef",
         "0xf7037875e97dcbd898b2b7261cfe56e0d4dbda6bb5e63e8b8346f51dfa5c1064",
@@ -3788,7 +3788,7 @@
       "accountIndex": 226,
       "amount": "743797761326148344922",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x35543a978454aee45cc0d36da4bb3bc2cf9518005fa20f1af1e0f4bcec77df8c",
         "0xe0c15fea9b2549a53977a84e58551ebcd82601c72f1064772de9ce8a2f4a2a93",
@@ -3805,7 +3805,7 @@
       "accountIndex": 227,
       "amount": "1764087644112184425",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe9f2433d6a4794b8d5e80baba435a582f8bfde66a339bcb009eb9d4ba840e381",
         "0x2d8b04926cc60e6a883e45f5309127856e9ac009c909381f70e014942b4c4fc7",
@@ -3819,7 +3819,7 @@
       "accountIndex": 228,
       "amount": "31397295070497158645",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8be9feb690530562b180f948c69f44020800f170d43f052eb0ebf3753379195b",
         "0x6a5de519f8baed656335700cc3efb3354b99c87dc613cb513406a9316d87e868",
@@ -3836,7 +3836,7 @@
       "accountIndex": 229,
       "amount": "1272375782978112348857",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4c66c68235f72446a7982ec03867d1366fc6f76f53d4c90b2bea8708943ddd22",
         "0xb08b2e338fc305e5d4d0cf31fa9d051becfd020fccb6fe6cc1fe621bbf0c072e",
@@ -3853,7 +3853,7 @@
       "accountIndex": 230,
       "amount": "2102564921405067514406",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x9085be0e4e1f455cb01e5fbcec78b3381e8f69e1d2a7fd6dac1ad300c59481fd",
         "0x27039273a1df5cd02fb8cccca2168bd7dcccec04e63df40cf20a6802c2e4d87e",
@@ -3870,7 +3870,7 @@
       "accountIndex": 231,
       "amount": "9754650789158860295",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe338c4e3a9888957e5eaf1987c121c75394e5fcb6ba69a82b4f1d269a8c1fecc",
         "0x8c81f03a38eecb4d88a3ddc16dcbec7c349756bc6d8659a6f51034db3894e1a1",
@@ -3887,7 +3887,7 @@
       "accountIndex": 232,
       "amount": "720514884886430393831",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1369cac107564ff731cc7bf2c8c32135282e688f8f41fc54bdf21c66302dddad",
         "0x621442ad3e2dabcee0eb41d1d65d7076dac0673c396f2de0ddebba61b8dcc908",
@@ -3904,7 +3904,7 @@
       "accountIndex": 233,
       "amount": "975465078915886027",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3df6916d083e6836a44ba071b6a543c206ebb353d4934368d1aed36c5d2e2012",
         "0x442dcff552bd9d053e1b7319f731f3e0aef36901f0f3ee216af506f273b33527",
@@ -3921,7 +3921,7 @@
       "accountIndex": 234,
       "amount": "660587932655955838594",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3c33b10c4b33225901f418c8c288fd6d66719e9609e2ff4fe13d3a77c97df1d0",
         "0xa7e9cb1e27a1b7b97dbfb5752c52eb40328416064d5418c2e7f480eb37492402",
@@ -3938,7 +3938,7 @@
       "accountIndex": 235,
       "amount": "1757885214158027652",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xeb308be8a3ab02adb4f9cdc26e9f935f620bc527c372fc1dd6588d5b63595680",
         "0x2b1b6784997a75c8a354da1aa7ea6a47f0ead1a2489aa5c738ec8e01b7c765db",
@@ -3952,7 +3952,7 @@
       "accountIndex": 236,
       "amount": "2519691994808209330",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x61f3904b948801636303b880d1936611791057006b274baee3b58dd16fe389b1",
         "0xbdfd425eadcc713a12d9415b1c87c2c35c84fd7883f62f5ec8ffb04aa126b025",
@@ -3969,7 +3969,7 @@
       "accountIndex": 237,
       "amount": "71422227991275873546",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x77fd140612f590a747dc22b452df3b7fb4a1c00bf9ce379c5f4217eb7df8bfd9",
         "0x591a0c93027920353dc61cb877bd2781f44368df6f94f825c7b05f27450e137c",
@@ -3986,7 +3986,7 @@
       "accountIndex": 238,
       "amount": "2217908445553997144554",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2ff8434c40814de89249e0c0ffd08c7b41b19c4bff81adbe35239c19b4275b75",
         "0xbe6ee58762962948d6491a6bb3984b7511860946cca060980e694b9c0f451138",
@@ -4003,7 +4003,7 @@
       "accountIndex": 239,
       "amount": "29773555444916834916",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd2a3f9fe6bc40d53ca5054a34afdcde31665e6c6d0a1e50772f16de80fcf5971",
         "0xa278efe5d353722d89fc06bed3d7b7f59cfe2b1b0f4606d97ea96824ef86d20a",
@@ -4020,7 +4020,7 @@
       "accountIndex": 240,
       "amount": "5085697437429170636",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x84fda61457e17cfe87f0fb1f409e4ae27aeed6864a8f68346fbf4a0714e24356",
         "0x799d0a6e357aef615a5611f5067c152b64dc9da719a9bff8f41c1fb2cb369723",
@@ -4031,7 +4031,7 @@
       "accountIndex": 241,
       "amount": "4639949544916969260672",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6646ca7a04094fea8066811f398960326c4250eaf2d00175be9b1f005d4c80da",
         "0x72575d21f35ffa6bd643d717e050cedf6c272b87ddbfe32eca4c11cb176fa3b2",
@@ -4048,7 +4048,7 @@
       "accountIndex": 242,
       "amount": "16664195098146386338",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x966b907ba9a6c025b882b125685ac0b424d3e58788f607e151ad0bc05e6d8e63",
         "0x32990eda3b514f36c7465af5c916892d548d737a4665282ed2cdcd6d65196c0d",
@@ -4065,7 +4065,7 @@
       "accountIndex": 243,
       "amount": "825180485545748768",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1cbb22fc81d35837fb8a7377d4b627f051a1f45b3a7a1fa99730e04a9ae2b4d6",
         "0x7d800cb3f099424d948df5906ef405fad8bd0d6f1c15a5ca7ac5c744857b7bd1",
@@ -4082,7 +4082,7 @@
       "accountIndex": 244,
       "amount": "25982980589361406851",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x78e74f247f8e4f6fc9bc862076140351c610a2d9fb66c6f351fdbb174db0413d",
         "0xa0eec31561e274933d2bdbd3a020e292c09963afed46a6ac6ff87e585edc0f82",
@@ -4099,7 +4099,7 @@
       "accountIndex": 245,
       "amount": "4049080545607106418558",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x2e34bc801fcf8c4a3779676d10117dd23271318d856a2e218e1d5f4502ba693b",
         "0x9a7ece691829ec395a740f6bec73090db84cd494616a550d523c501ce647b29c",
@@ -4116,7 +4116,7 @@
       "accountIndex": 246,
       "amount": "389870676395899634798",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x60b31d82d60293572b86ecbc3aa4658c66536212cfc429229a956de207cf2d29",
         "0x77cde8952c374853e1e2b712910a6cb0362edf5d0110f6a81d2f8f22c9c6188a",
@@ -4133,7 +4133,7 @@
       "accountIndex": 247,
       "amount": "244679157294734742",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xe211a95b889204ea4a0b28d32068920d27c8bcbfa7068606cffebf2d4fccda92",
         "0x9fea6ac68605479397a418655158b1f30b3433307349cd954d6abb1be3944dea",
@@ -4150,7 +4150,7 @@
       "accountIndex": 248,
       "amount": "1260007274775859962",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb56bf955023608dd7622810d2eac18eb18477a71ba7ebb9b7fbe5be9f040afc8",
         "0xa25e84c3cf628e3dcb3d60fefa72dbef23bc635c148d2a1fd9726a0838bc84f8",
@@ -4167,7 +4167,7 @@
       "accountIndex": 249,
       "amount": "1768007958194733052",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xcb57877986ff2ff3ecabfb4d2c0b6dfa111c67156409d2184d8ea0553915ae95",
         "0x3f6065bdcc21494365c2ca3baca0c5042aee0cb9e9e2e2f6ddbcced90974ad70",
@@ -4184,7 +4184,7 @@
       "accountIndex": 250,
       "amount": "564495085296932795707",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3e268aacc22a1f6b6f856c06e7fb61c6750d9d573f22c3172971efe27623c1c6",
         "0x442dcff552bd9d053e1b7319f731f3e0aef36901f0f3ee216af506f273b33527",
@@ -4201,7 +4201,7 @@
       "accountIndex": 251,
       "amount": "2113507670984419727",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8fca4732ba74bc8635a960a00df7020691a96ec30c607541be715a0f607c7653",
         "0x10919b38ee1473fc93fb113b9ef5e154f22b136355fbc04fe149d197579a4932",
@@ -4218,7 +4218,7 @@
       "accountIndex": 252,
       "amount": "406443782881619175",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8f744ee426b2ad34df950214c8da6afd19ba24978bb2031f825d8f5392e6cfe9",
         "0x8370a2d2c401814ab5032f7220b66e3a42abb46fd945e24a93d41e6becb2ba27",
@@ -4235,7 +4235,7 @@
       "accountIndex": 253,
       "amount": "1185861630515313737365",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8940570b0bb3c2439dd7466ef27fce17a51e9fc07eaf923fbd4be21c30dc5650",
         "0x19a04bcd9940ebc92fcb36554a3864476417460a21b68d3b2f356ee77cd991d3",
@@ -4252,7 +4252,7 @@
       "accountIndex": 254,
       "amount": "1313606629090587505106",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x89156373e19b2375e8149ed3689c8e6952e2e91ca9e385d8e0aed2d455394d4b",
         "0x19a04bcd9940ebc92fcb36554a3864476417460a21b68d3b2f356ee77cd991d3",
@@ -4269,7 +4269,7 @@
       "accountIndex": 255,
       "amount": "84881409271233808397",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8cf7eefe03f1114202791929aa912688373606bc66aa8e830c79df4fd12ea8d6",
         "0x8791a7e848d56a9a4ec44ab4955872fe0adcce883b54bd784e2562a124803764",
@@ -4286,7 +4286,7 @@
       "accountIndex": 256,
       "amount": "237601840817877411348",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc22c1f42aa6430e267a7c723c264628108264fb3418f53303ed63066f4273937",
         "0x4e78638bf825594aed527bf5bcefea1d850b60a5f38fd12648c5fabdc134f96f",
@@ -4303,7 +4303,7 @@
       "accountIndex": 257,
       "amount": "6855379678564900283",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xd2d5b5076414cbedcdd06d69aa14490724b61281a86251b58292a8f7da46d314",
         "0x82035c56283e90ee125b402f5dace003f00d1fad69713ca770605a69478ef74d",
@@ -4320,7 +4320,7 @@
       "accountIndex": 258,
       "amount": "5893360932047875814",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x097b4d1c29fe555591ec4c3815e34077fba1ece2091cc84dc33153f7e0952a92",
         "0x1aa35e35d13dbe0bf56d63f368b096bd59ac16eaba2c8682ca3a9d489cc7a141",
@@ -4337,7 +4337,7 @@
       "accountIndex": 259,
       "amount": "238311303789464225266653",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x61553a9b91697b545c60e9d4f6d1876ad7d8d62bc1c4cf770b0f3c60bddceecf",
         "0xbdfd425eadcc713a12d9415b1c87c2c35c84fd7883f62f5ec8ffb04aa126b025",
@@ -4354,7 +4354,7 @@
       "accountIndex": 260,
       "amount": "120965014989477244012",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x993c8012ab176d5b6ac4ee6fcb2717a29f8b6cc50ff1b321a63c43127a9b7937",
         "0x345380f70c0fc57b4098a38ef95c51d6f6335a903da63c6793db2ab031256313",
@@ -4371,7 +4371,7 @@
       "accountIndex": 261,
       "amount": "3317599071819222714",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x275a63af9297ec9b6621d7c70a2016a01de84dc0963b2a69e4da5eba6321843d",
         "0xf7037875e97dcbd898b2b7261cfe56e0d4dbda6bb5e63e8b8346f51dfa5c1064",
@@ -4388,7 +4388,7 @@
       "accountIndex": 262,
       "amount": "14889518961537754401",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb52aa3516234e70eb7fbb25ce80bd89d832c78f14d87e15dd7c209f73db36111",
         "0xbe572437c60c21a8eb4ff31ae97d5d5588aeedba4ccc72133e4b787f62f54d64",
@@ -4405,7 +4405,7 @@
       "accountIndex": 263,
       "amount": "687710151944183605",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x8b7570b4268bab36bf5c223aeb3f04f3b96198a45bc22ab35072c6daea6929fa",
         "0xfa9908c4dbf70eb818addca4ada6e729f07d8bbb7ce56968082a7ce58e60e425",
@@ -4422,7 +4422,7 @@
       "accountIndex": 264,
       "amount": "10284508345256598377",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3360bba3233376f77390d93bcf50819653e6043fbaa3db96c8fa44300ca88627",
         "0xe0c15fea9b2549a53977a84e58551ebcd82601c72f1064772de9ce8a2f4a2a93",
@@ -4439,7 +4439,7 @@
       "accountIndex": 265,
       "amount": "65280452589490365880",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xfd423f762e2b92451e3068e2c8f0b4b3c3a1d475551b45f660f66e37afc7f1ad",
         "0x34f943f9762f9bd409564ae71a0ef8c900fe8e36a78a352935705f404278d9c3",
@@ -4453,7 +4453,7 @@
       "accountIndex": 266,
       "amount": "310294409735693435153",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xba0c1e9abec19f49e7245b722dd2e9aeb64fd01248c15ef929124ce06c00b5df",
         "0x44421d280cf8ebc1a6744a8c9bddc73a3d28cf3e5a1960c9ef88347517d64743",
@@ -4470,7 +4470,7 @@
       "accountIndex": 267,
       "amount": "127488794844576776827",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x0e4d9df47927ad3ad21c6f6b13548ff228a92db828627d198d9fe9673570207e",
         "0xd6e57773950cd23fd5935cfdd77b41df08c549eb99eace709faa184663d857da",
@@ -4487,7 +4487,7 @@
       "accountIndex": 268,
       "amount": "10913416135299902930",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x240f66e8eb8046825dd942560bd39ca0a6153a1ca18d465299e34e14a70bc209",
         "0x565b712d9d47a282a5d612087e2df5bef81f3f0d06b2622a99adc7f44048c29f",
@@ -4504,7 +4504,7 @@
       "accountIndex": 269,
       "amount": "89596998560315763826",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x5c07c5192c8e17d5f8a2027fdddf14c5005a0b5cf2c109d6295bce083c123514",
         "0x9e5525eff8b04b036726f4b2b132778d27d2eeeeedbf5a624a23851886426bec",
@@ -4521,7 +4521,7 @@
       "accountIndex": 270,
       "amount": "489884893257956356743",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x220029c7979a5e581def9e26161c7a2c598b2723ab7c69e31a1183b962c3911c",
         "0x44ccf60ea51721250f63213c790f215dd623256b1b70a1b0d8fbbbd777b0f408",
@@ -4538,7 +4538,7 @@
       "accountIndex": 271,
       "amount": "21682125936480607398",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "inactive" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x157ec432303c0fb949df8010152461b7ce4f7bdccb5e8dde52f7ff41eff6828c",
         "0x7cfa0c9f0657ca932b0a81e4d5aaad75d1370af0d0b7d7127abacf4bf3e31eea",
@@ -4555,7 +4555,7 @@
       "accountIndex": 272,
       "amount": "1252512782807083390",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x6faf7717413f29d35607aa1b94c8e83345598cd92b87023ae2f8560ce75fb075",
         "0x0203873abc76f3fb03e4afb95c5e3d6762f25fb287194a563b5f3b93aa4ef41b",
@@ -4572,7 +4572,7 @@
       "accountIndex": 273,
       "amount": "2142666839738276206389",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xa8002988c3473173bbcd0b3e9390801a47ba7bfbdea833788a137e28b3f64a72",
         "0xdaf66e8422233c123be5f0383d1811f605713be29c2d17226c7170588d7952d0",
@@ -4589,7 +4589,7 @@
       "accountIndex": 274,
       "amount": "2515601182156744745",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc4d1023201fdec4f568fab3d6124840f7416accf1f6b25a950cbadc106b259ab",
         "0x24d5d38c147888a097f34d359d8cfc5c8038860638fcba749aefe1a87dad3283",
@@ -4606,7 +4606,7 @@
       "accountIndex": 275,
       "amount": "774200515845318230351",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xc0575f1c3c3cb6a2dee3d6ef3918a53eb719c10f59ada9e0b7ab1589728a31df",
         "0x1f4676a767d93671c1b12c87e8bdf92fe966901403e7f047ff76a525a0d059dc",
@@ -4623,7 +4623,7 @@
       "accountIndex": 276,
       "amount": "551111316959690050168",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x4f67fb392b8bf6e4b4a92e9c26f1188b44d78fe499a1971d73e0627c12250fa4",
         "0x23c73ad6547221a3f16b0c745be14334cc068e91efc86f87a4385d54977f4bb8",
@@ -4640,7 +4640,7 @@
       "accountIndex": 277,
       "amount": "3546281864489971092945",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0xb395aa963df01a3c3b9de11752d9369fd153f37636b4a744258c79831a483564",
         "0xde2920ef8acbd76adb4a6bf074cb6f753f7bf882acac9547c6546eaf2bed6659",
@@ -4657,7 +4657,7 @@
       "accountIndex": 278,
       "amount": "145714874474224367613",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x3ab3218b2ff2b01368b7b5ec1c6dc896d6a811c74725c485e833f5de1fc4a8f3",
         "0x4a3cb58200516952c085fd530b0e2ef4aa4dc1ea1e17b37307c40887235379dc",
@@ -4674,7 +4674,7 @@
       "accountIndex": 279,
       "amount": "1296085953347923610",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x1114519c271aab73a527a73d15250f31a0153fe07939292888bc43f91da90b1e",
         "0xa12de963b532dbc012a7278a3bca7614118eab9c86a190620564e0d634dabc3a",
@@ -4691,7 +4691,7 @@
       "accountIndex": 280,
       "amount": "1967187909147036823",
       "metaData": { "reason": ["Distribution for epoch 19"], "state": "active" },
-      "windowIndex": 19,
+      "windowIndex": 20,
       "proof": [
         "0x65df72f2d253dd454b8edd6ab74a415bc2a5609ea111df9f490845bf498d7a3f",
         "0x5249bf8c7505911dcd4e7914541d89dd3e19676394b3bfc451008e88cefe290d",
